@@ -1,4 +1,4 @@
-A simple Github API data aggregator.
+#**A simple Github API data aggregator**
 
 The sample_input.py file has all the API input data & can be changed as per needs.
 This makes the entire code generalized. The API which the user intends to call can be mentioned 
