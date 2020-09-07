@@ -7,8 +7,8 @@ in sample_input.py file along with other parameters.
 ***./csv_writer/filters.py*** : This file contains all attributes that needs to be fetched from the API data 'items'.
                           In order to change the required attributes, the user only needs to make changes to this file.
 
-## Steps to run the code: 
-1. Install packages from ***requirements.txt***
+## Steps to :runner:run the code: 
+1. Install packages from ***requirements.txt***: **pip install -r requirements.txt**
 2. Run all the tests using : **python -m unittest**
 3. Make sure that all the tests are passing.
 4. Run main.py: **python main.py**
