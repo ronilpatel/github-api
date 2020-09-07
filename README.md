@@ -5,7 +5,7 @@ This makes the entire code generalized. The API which the user intends to call c
 in sample_input.py file along with other parameters.
 
 Steps to run the code: 
-1. install packages from requirements.txt
+1. Install packages from requirements.txt
 2. Run all the tests using : python -m unittest
 3. Make sure that all the tests are passing.
 4. Run main.py: python main.py
