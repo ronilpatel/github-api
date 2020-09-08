@@ -21,7 +21,7 @@
 4. Run main.py: **python main.py**
 5. Once the execution is complete, please check the ***logs.txt*** in the project directory
    for further detailed information
-<hr><br>   
+<hr> 
 
 ## File details ##
 ***sample_input.py***: file has all the API input data & can be changed as per needs.
