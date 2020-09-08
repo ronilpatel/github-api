@@ -1,18 +1,18 @@
 # Github API data aggregator
 
 ### Github API Endpoint: **https://api.github.com/search/repositories?q=is:public**
-Following filters are used to fectch only limited relevant repositories:
+**Following filters are used to fectch only limited relevant repositories:**
 1. language: Python
 2. forks: >=200
 
-Storing the fetched repositories data into a CSV file. Attributes to be fetched:
+**Storing the fetched repositories data into a CSV file. Attributes to be fetched:**
 1. name
 2. Description
 3. html_url
 4. watchers_count
 5. stargazers_count>=2000
 6. forks_count 
-<hr><br>
+<hr>
 
 ## Steps to :runner:run the code: 
 1. Install packages from ***requirements.txt***: **pip install -r requirements.txt**
