@@ -17,7 +17,8 @@ Include only those records that have stargazers_count>2000
 <br>
 <hr>
 The ***sample_input.py*** file has all the API input data & can be changed as per needs.
-This makes the entire code generalized. The API which the user intends to call can be mentioned 
+
+The entire code extensible. The API which the user intends to call can be mentioned 
 in sample_input.py file along with other parameters.
 
 ***./csv_writer/filters.py*** : This file contains all attributes that needs to be fetched from the API data 'items'.
