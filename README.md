@@ -14,7 +14,8 @@ Storing the fetched repositories data into a CSV file. Attributes to be fetched:
 6. forks_count
 
 Include only those records that have stargazers_count>2000
-
+<br>
+<hr>
 The ***sample_input.py*** file has all the API input data & can be changed as per needs.
 This makes the entire code generalized. The API which the user intends to call can be mentioned 
 in sample_input.py file along with other parameters.
