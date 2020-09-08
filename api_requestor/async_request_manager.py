@@ -21,8 +21,10 @@ def filter_stargazers(item: dict) -> bool:
 
 def make_async_requests(endpoints: list):
     loop_var = asyncio.get_event_loop()
+    logger.info('started making API calls...')
     request_data = loop_var.run_until_complete(get_multiple_request_data(
                                                loop_var, *endpoints))
+    logger.info('All the api calls made!')
     try:
         x = [json.loads(data) for data in request_data]
     except json.decoder.JSONDecodeError:
