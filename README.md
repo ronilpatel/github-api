@@ -10,16 +10,12 @@ Storing the fetched repositories data into a CSV file. Attributes to be fetched:
 2. Description
 3. html_url
 4. watchers_count
-5. stargazers_count
-6. forks_count
+5. stargazers_count>=2000
+6. forks_count <hr>
 
-Include only those records that have stargazers_count>2000
-<br>
-<hr>
-The ***sample_input.py*** file has all the API input data & can be changed as per needs.
-
-The entire code extensible. The API which the user intends to call can be mentioned 
-in sample_input.py file along with other parameters.
+***sample_input.py***: file has all the API input data & can be changed as per needs.
+                       The entire code extensible. The API which the user intends to 
+                       call can be mentioned in ***sample_input.py*** file along with other parameters.
 
 ***./csv_writer/filters.py*** : This file contains all attributes that needs to be fetched from the API data 'items'.
                           In order to change the required attributes, the user only needs to make changes to this file.
