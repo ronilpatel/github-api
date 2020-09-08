@@ -11,14 +11,8 @@ Storing the fetched repositories data into a CSV file. Attributes to be fetched:
 3. html_url
 4. watchers_count
 5. stargazers_count>=2000
-6. forks_count <hr>
-
-***sample_input.py***: file has all the API input data & can be changed as per needs.
-                       The entire code extensible. The API which the user intends to 
-                       call can be mentioned in ***sample_input.py*** file along with other parameters.
-
-***./csv_writer/filters.py*** : This file contains all attributes that needs to be fetched from the API data 'items'.
-                          In order to change the required attributes, the user only needs to make changes to this file.
+6. forks_count 
+<hr><br>
 
 ## Steps to :runner:run the code: 
 1. Install packages from ***requirements.txt***: **pip install -r requirements.txt**
@@ -27,3 +21,12 @@ Storing the fetched repositories data into a CSV file. Attributes to be fetched:
 4. Run main.py: **python main.py**
 5. Once the execution is complete, please check the ***logs.txt*** in the project directory
    for further detailed information
+<hr><br>   
+
+***sample_input.py***: file has all the API input data & can be changed as per needs.
+                       The entire code extensible. The API which the user intends to 
+                       call can be mentioned in ***sample_input.py*** file along with other parameters.
+
+***./csv_writer/filters.py*** : This file contains all attributes that needs to be fetched from the API data 'items'.
+                          In order to change the required attributes, the user only needs to make changes to this file.
+
