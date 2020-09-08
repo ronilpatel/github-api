@@ -7,7 +7,7 @@ URL = 'https://api.github.com/search/repositories'
 
 PARAMS = [
     ('is', 'public'),
-    ('forks', '>=2000'),
+    ('forks', '>=200'),
     ('language', 'Python'),
 ]
 
