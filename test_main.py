@@ -3,14 +3,22 @@ from main import main
 from unittest import TestCase
 from unittest.mock import patch
 from api.endpoint import ApiEndPoint
-from sample_input import URL, PARAMS, PER_PAGE
+from sample_input import URL, PARAMS, PER_PAGE, FILENAME, FILEPATH
 
 
 class TestMain(TestCase):
 
-    @patch('main.write_records')
-    def test_main(self, mock_write_records_obj,):
-        endpoint = ApiEndPoint(url=URL, params=dict(
-            PARAMS), per_page=PER_PAGE).endpoint
+    @patch('main.AsyncApiRequestor.make_api_calls')
+    @patch('main.CsvOperation.write_to_file')
+    def test_main(self, mock_write_to_file, mock_async_api_req):
+        def fake_generator():
+            repo = []
+            for r in repo:
+                yield r
+        expected_value = fake_generator()
+        mock_async_api_req.return_value = expected_value
+
         main()
-        mock_write_records_obj.assert_called_with(endpoint)
+        mock_async_api_req.assert_called_once()
+        mock_write_to_file.assert_called_with(FILENAME, FILEPATH,
+                                              expected_value)
