@@ -1,52 +1,52 @@
-08-09-2020 10:29:16 INFO     [main.py:13] task started....
-08-09-2020 10:29:20 INFO     [async_request_manager.py:49] Total api calls to be made : 43
-08-09-2020 10:29:20 INFO     [write_to_csv.py:21] started writing to file........
-08-09-2020 10:29:20 INFO     [async_request_manager.py:24] started making API calls...
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 0.8686776161193848
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 0.9025869369506836
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 0.9095687866210938
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 0.908571720123291
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 0.9235310554504395
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 0.9464688301086426
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 0.9424793720245361
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 0.954448938369751
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 0.9484658241271973
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 0.9414811134338379
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 0.9524543285369873
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 0.95345139503479
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 0.9444694519042969
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 0.9524543285369873
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 0.9694082736968994
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 0.9674139022827148
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 0.9634222984313965
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 0.9694080352783203
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 0.9853651523590088
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 0.9843704700469971
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 0.989356517791748
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 0.9873597621917725
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 0.9903535842895508
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 1.010298728942871
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 1.0003199577331543
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 1.0003199577331543
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 1.0142743587493896
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 1.0192680358886719
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 1.0382180213928223
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 1.0481979846954346
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 1.0651516914367676
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 1.1000580787658691
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 1.1050457954406738
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 1.109034538269043
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 1.1519198417663574
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 1.152916669845581
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 1.1638898849487305
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 1.166879415512085
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 1.1708693504333496
-08-09-2020 10:29:21 INFO     [async_requestor.py:14] Time taken by page: 1.2157485485076904
-08-09-2020 10:29:22 INFO     [async_requestor.py:14] Time taken by page: 1.3743255138397217
-08-09-2020 10:29:23 INFO     [async_requestor.py:14] Time taken by page: 2.978069543838501
-08-09-2020 10:29:23 INFO     [async_requestor.py:14] Time taken by page: 3.083754301071167
-08-09-2020 10:29:23 INFO     [async_request_manager.py:27] All the api calls made!
-08-09-2020 10:29:23 INFO     [write_to_csv.py:34] Total rows written: 300
-08-09-2020 10:29:23 INFO     [write_to_csv.py:35] File write Successful! File Path is: github_api_data.csv
-08-09-2020 10:29:23 INFO     [main.py:22] Total time taken to complete: 7.252506256103516
-08-09-2020 10:29:23 INFO     [main.py:23] task ended....
+09-09-2020 11:19:42 INFO     [main.py:17] task started....
+09-09-2020 11:19:46 INFO     [requestor.py:33] Total api calls to be made : 43
+09-09-2020 11:19:46 INFO     [write_to_csv.py:40] started writing to file........
+09-09-2020 11:19:46 INFO     [requestor.py:51] started making API calls...
+09-09-2020 11:19:49 INFO     [requestor.py:77] Time taken by page: 2.7834227085113525
+09-09-2020 11:19:49 INFO     [requestor.py:77] Time taken by page: 3.065032482147217
+09-09-2020 11:19:51 INFO     [requestor.py:77] Time taken by page: 4.164489030838013
+09-09-2020 11:19:51 INFO     [requestor.py:77] Time taken by page: 4.408019304275513
+09-09-2020 11:19:53 INFO     [requestor.py:77] Time taken by page: 6.404056787490845
+09-09-2020 11:19:53 INFO     [requestor.py:77] Time taken by page: 6.426953077316284
+09-09-2020 11:19:53 INFO     [requestor.py:77] Time taken by page: 6.524812459945679
+09-09-2020 11:19:53 INFO     [requestor.py:77] Time taken by page: 6.86459755897522
+09-09-2020 11:19:53 INFO     [requestor.py:77] Time taken by page: 6.9416632652282715
+09-09-2020 11:19:53 INFO     [requestor.py:77] Time taken by page: 6.968590497970581
+09-09-2020 11:19:54 INFO     [requestor.py:77] Time taken by page: 7.2096827030181885
+09-09-2020 11:19:54 INFO     [requestor.py:77] Time taken by page: 7.213895559310913
+09-09-2020 11:19:54 INFO     [requestor.py:77] Time taken by page: 7.405417442321777
+09-09-2020 11:19:54 INFO     [requestor.py:77] Time taken by page: 7.473228693008423
+09-09-2020 11:19:54 INFO     [requestor.py:77] Time taken by page: 7.502319574356079
+09-09-2020 11:19:54 INFO     [requestor.py:77] Time taken by page: 7.713604927062988
+09-09-2020 11:19:54 INFO     [requestor.py:77] Time taken by page: 7.713608026504517
+09-09-2020 11:19:54 INFO     [requestor.py:77] Time taken by page: 7.7126076221466064
+09-09-2020 11:19:54 INFO     [requestor.py:77] Time taken by page: 7.731611490249634
+09-09-2020 11:19:54 INFO     [requestor.py:77] Time taken by page: 7.730623006820679
+09-09-2020 11:19:54 INFO     [requestor.py:77] Time taken by page: 7.731617450714111
+09-09-2020 11:19:54 INFO     [requestor.py:77] Time taken by page: 7.749702215194702
+09-09-2020 11:19:54 INFO     [requestor.py:77] Time taken by page: 7.750702619552612
+09-09-2020 11:19:54 INFO     [requestor.py:77] Time taken by page: 8.002696514129639
+09-09-2020 11:19:54 INFO     [requestor.py:77] Time taken by page: 8.004944086074829
+09-09-2020 11:19:54 INFO     [requestor.py:77] Time taken by page: 8.009801864624023
+09-09-2020 11:19:54 INFO     [requestor.py:77] Time taken by page: 8.01079797744751
+09-09-2020 11:19:54 INFO     [requestor.py:77] Time taken by page: 8.031928539276123
+09-09-2020 11:19:54 INFO     [requestor.py:77] Time taken by page: 8.033921718597412
+09-09-2020 11:19:54 INFO     [requestor.py:77] Time taken by page: 8.036917448043823
+09-09-2020 11:19:54 INFO     [requestor.py:77] Time taken by page: 8.033920764923096
+09-09-2020 11:19:55 INFO     [requestor.py:77] Time taken by page: 8.180359601974487
+09-09-2020 11:19:55 INFO     [requestor.py:77] Time taken by page: 8.18447995185852
+09-09-2020 11:19:55 INFO     [requestor.py:77] Time taken by page: 8.186469554901123
+09-09-2020 11:19:55 INFO     [requestor.py:77] Time taken by page: 8.185475587844849
+09-09-2020 11:19:55 INFO     [requestor.py:77] Time taken by page: 8.186473369598389
+09-09-2020 11:19:55 INFO     [requestor.py:77] Time taken by page: 8.200585842132568
+09-09-2020 11:19:55 INFO     [requestor.py:77] Time taken by page: 8.196590185165405
+09-09-2020 11:19:55 INFO     [requestor.py:77] Time taken by page: 8.199583292007446
+09-09-2020 11:19:55 INFO     [requestor.py:77] Time taken by page: 8.21167778968811
+09-09-2020 11:19:55 INFO     [requestor.py:77] Time taken by page: 8.217628955841064
+09-09-2020 11:19:55 INFO     [requestor.py:77] Time taken by page: 8.720067024230957
+09-09-2020 11:19:55 INFO     [requestor.py:77] Time taken by page: 9.000496625900269
+09-09-2020 11:19:56 INFO     [requestor.py:54] All the api calls made!
+09-09-2020 11:19:56 INFO     [write_to_csv.py:53] Total rows written: 300
+09-09-2020 11:19:56 INFO     [write_to_csv.py:54] File write Successful! File Path is: C:\Users\Ronil Patel\PycharmProjects\github-api-assignment\github_api_data.csv
+09-09-2020 11:19:56 INFO     [main.py:36] Total time taken to complete: 14.469861507415771
+09-09-2020 11:19:56 INFO     [main.py:37] task ended....

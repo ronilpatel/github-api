@@ -1,301 +1,301 @@
 name,description,html_url,watchers_count,stargazers_count,forks_count
-system-design-primer,Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.,https://github.com/donnemartin/system-design-primer,106134,106134,19056
-public-apis,A collective list of free APIs for use in software and web development.,https://github.com/public-apis/public-apis,95501,95501,11508
-awesome-python,"A curated list of awesome Python frameworks, libraries, software and resources",https://github.com/vinta/awesome-python,86373,86373,16968
-Python,All Algorithms implemented in Python,https://github.com/TheAlgorithms/Python,84289,84289,24835
-youtube-dl,Command-line program to download videos from YouTube.com and other video sites,https://github.com/ytdl-org/youtube-dl,70493,70493,12327
-models,Models and examples built with TensorFlow,https://github.com/tensorflow/models,65978,65978,42153
-thefuck,Magnificent app which corrects your previous console command.,https://github.com/nvbn/thefuck,55350,55350,2741
-flask,The Python micro framework for building web applications.,https://github.com/pallets/flask,51926,51926,13740
-django,The Web framework for perfectionists with deadlines.,https://github.com/django/django,51817,51817,22424
-keras,Deep Learning for humans,https://github.com/keras-team/keras,49654,49654,18563
-httpie,"As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp",https://github.com/httpie/httpie,47996,47996,3085
-awesome-machine-learning,"A curated list of awesome Machine Learning frameworks, libraries and software.",https://github.com/josephmisiti/awesome-machine-learning,46399,46399,11652
-ansible,"Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",https://github.com/ansible/ansible,44649,44649,19566
-requests,"A simple, yet elegant HTTP library.",https://github.com/psf/requests,43459,43459,7884
-scikit-learn,scikit-learn: machine learning in Python,https://github.com/scikit-learn/scikit-learn,42134,42134,20315
-scrapy,"Scrapy, a fast high-level web crawling & scraping framework for Python.",https://github.com/scrapy/scrapy,38208,38208,8784
-big-list-of-naughty-strings,The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.,https://github.com/minimaxir/big-list-of-naughty-strings,37930,37930,1683
-face_recognition,The world's simplest facial recognition api for Python and the command line,https://github.com/ageitgey/face_recognition,36113,36113,10110
-core,:house_with_garden: Open source home automation that puts local control and privacy first,https://github.com/home-assistant/core,35315,35315,11366
-you-get,:arrow_double_down: Dumb downloader that scrapes the web,https://github.com/soimort/you-get,34861,34861,6985
-cpython,The Python programming language,https://github.com/python/cpython,33375,33375,15974
-transformers,🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.,https://github.com/huggingface/transformers,33370,33370,7982
-HelloGitHub,:octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目,https://github.com/521xueweihan/HelloGitHub,33357,33357,4979
-shadowsocks,,https://github.com/shadowsocks/shadowsocks,32767,32767,19700
-faceswap,Deepfakes Software For All,https://github.com/deepfakes/faceswap,32245,32245,10093
-XX-Net,A proxy tool to bypass GFW.,https://github.com/XX-net/XX-Net,30295,30295,7876
-incubator-superset,Apache Superset is a Data Visualization and Data Exploration Platform,https://github.com/apache/incubator-superset,29943,29943,6198
-interview_internal_reference,2020年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。,https://github.com/0voice/interview_internal_reference,28767,28767,7892
-12306,12306智能刷票，订票,https://github.com/testerSunshine/12306,28644,28644,9077
-CppCoreGuidelines,"The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",https://github.com/isocpp/CppCoreGuidelines,28418,28418,3786
-Deep-Learning-Papers-Reading-Roadmap,Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!,https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap,28278,28278,6266
-certbot,Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.,https://github.com/certbot/certbot,27142,27142,2961
-AiLearning,AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP,https://github.com/apachecn/AiLearning,26735,26735,9173
-pandas,"Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",https://github.com/pandas-dev/pandas,26411,26411,10821
-localstack,💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!,https://github.com/localstack/localstack,26243,26243,2000
-sentry,"Sentry is cross-platform application monitoring, with a focus on error reporting.",https://github.com/getsentry/sentry,25970,25970,2926
-python-patterns,A collection of design patterns/idioms in Python,https://github.com/faif/python-patterns,25769,25769,5416
-manim,Animation engine for explanatory math videos,https://github.com/3b1b/manim,25157,25157,3218
-bert,TensorFlow code and pre-trained models for BERT,https://github.com/google-research/bert,24745,24745,6970
-jieba,结巴中文分词,https://github.com/fxsjy/jieba,24028,24028,5883
-funNLP,"中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库、构建医疗实体识别的模型（包含词典和语料标注）、单文档非监督的关键词抽取、Kashgari中使用gpt-2语言模型、开源的金融投资数据提取工具、文本自动摘要库TextTeaser: 仅支持英文、人民日报语料处理工具集、一些关于自然语言的基本模型、基于14W歌曲知识库的问答尝试--功能包括歌词接龙and已知歌词找歌曲以及歌曲歌手歌词三角关系的问答、基于Siamese bilstm模型的相似句子判定模型并提供训练数据集和测试数据集、用Transformer编解码模型实现的根据Hacker News文章标题自动生成评论、用BERT进行序列标记和文本分类的模板代码、LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记英文小说语料、百度开源的基准信息抽取系统、虚假新闻数据集、Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口、CommonsenseQA：面向常识的英文QA挑战、中文知识图谱资料、数据及工具、各大公司内部里大牛分享的技术文档 PDF 或者 PPT、自然语言生成SQL语句（英文）、中文NLP数据增强（EDA）工具、英文NLP数据增强工具 、基于医药知识图谱的智能问答系统、京东商品知识图谱、基于mongodb存储的军事领域知识图谱问答项目、基于远监督的中文关系抽取、语音情感分析、中文ULMFiT-情感分析-文本分类-语料及模型、一个拍照做题程序、世界各国大规模人名库、一个利用有趣中文语料库 qingyun 训练出来的中文聊天机器人、中文聊天机器人seqGAN、省市区镇行政区划数据带拼音标注、教育行业新闻语料库包含自动文摘功能、开放了对话机器人-知识图谱-语义理解-自然语言处理工具及数据、中文知识图谱：基于百度百科中文页面-抽取三元组信息-构建中文知识图谱、masr: 中文语音识别-提供预训练模型-高识别率、Python音频数据增广库、中文全词覆盖BERT及两份阅读理解数据、ConvLab：开源多域端到端对话系统平台、中文自然语言处理数据集、基于最新版本rasa搭建的对话系统、基于TensorFlow和BERT的管道式实体及关系抽取、一个小型的证券知识图谱/知识库、复盘所有NLP比赛的TOP方案、OpenCLaP：多领域开源中文预训练语言模型仓库、UER：基于不同语料+编码器+目标任务的中文预训练模型仓库、中文自然语言处理向量合集、基于金融-司法领域(兼有闲聊性质)的聊天机器人、g2pC：基于上下文的汉语读音自动标记模块、Zincbase 知识图谱构建工具包、诗歌质量评价/细粒度情感诗歌语料库、快速转化「中文数字」和「阿拉伯数字」、百度知道问答语料库、基于知识图谱的问答系统、jieba_fast 加速版的jieba、正则表达式教程、中文阅读理解数据集、基于BERT等最新语言模型的抽取式摘要提取、Python利用深度学习进行文本摘要的综合指南、知识图谱深度学习相关资料整理、维基大规模平行文本语料、StanfordNLP 0.2.0：纯Python版自然语言处理包、NeuralNLP-NeuralClassifier：腾讯开源深度学习文本分类工具、端到端的封闭域对话系统、中文命名实体识别：NeuroNER vs. BertNER、新闻事件线索抽取、2019年百度的三元组抽取比赛：“科学空间队”源码、基于依存句法的开放域文本知识三元组抽取和知识库构建、中文的GPT2训练代码、ML-NLP - 机器学习(Machine Learning)NLP面试中常考到的知识点和代码实现、nlp4han:中文自然语言处理工具集(断句/分词/词性标注/组块/句法分析/语义分析/NER/N元语法/HMM/代词消解/情感分析/拼写检查、XLM：Facebook的跨语言预训练语言模型、用基于BERT的微调和特征提取方法来进行知识图谱百度百科人物词条属性抽取、中文自然语言处理相关的开放任务-数据集-当前最佳结果、CoupletAI - 基于CNN+Bi-LSTM+Attention 的自动对对联系统、抽象知识图谱、MiningZhiDaoQACorpus - 580万百度知道问答数据挖掘项目、brat rapid annotation tool: 序列标注工具、大规模中文知识图谱数据：1.4亿实体、数据增强在机器翻译及其他nlp任务中的应用及效果、allennlp阅读理解:支持多种数据和模型、PDF表格数据提取工具 、 Graphbrain：AI开源软件库和科研工具，目的是促进自动意义提取和文本理解以及知识的探索和推断、简历自动筛选系统、基于命名实体识别的简历自动摘要、中文语言理解测评基准，包括代表性的数据集&基准模型&语料库&排行榜、树洞 OCR 文字识别 、从包含表格的扫描图片中识别表格和文字、语声迁移、Python口语自然语言处理工具集(英文)、 similarity：相似度计算工具包，java编写、海量中文预训练ALBERT模型 、Transformers 2.0 、基于大规模音频数据集Audioset的音频增强 、Poplar：网页版自然语言标注工具、图片文字去除，可用于漫画翻译 、186种语言的数字叫法库、Amazon发布基于知识的人-人开放领域对话数据集 、中文文本纠错模块代码、繁简体转换 、 Python实现的多种文本可读性评价指标、类似于人名/地名/组织机构名的命名体识别数据集 、东南大学《知识图谱》研究生课程(资料)、. 英文拼写检查库 、 wwsearch是企业微信后台自研的全文检索引擎、CHAMELEON：深度学习新闻推荐系统元架构 、 8篇论文梳理BERT相关模型进展与反思、DocSearch：免费文档搜索引擎、 LIDA：轻量交互式对话标注工具 、aili - the fastest in-memory index in the East 东半球最快并发索引 、知识图谱车音工作项目、自然语言生成资源大全 、中日韩分词库mecab的Python接口库、中文文本摘要/关键词提取、汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征、中文生成任务基准测评 、中文缩写数据集、中文任务基准测评 - 代表性的数据集-基准(预训练)模型-语料库-baseline-工具包-排行榜、PySS3：面向可解释AI的SS3文本分类器机器可视化工具 、中文NLP数据集列表、COPE - 格律诗编辑程序、doccano：基于网页的开源协同多语言文本标注工具 、PreNLP：自然语言预处理库、简单的简历解析器，用来从简历中提取关键信息、用于中文闲聊的GPT2模型：GPT2-chitchat、基于检索聊天机器人多轮响应选择相关资源列表(Leaderboards、Datasets、Papers)、(Colab)抽象文本摘要实现集锦(教程 、词语拼音数据、高效模糊搜索工具、NLP数据增广资源集、微软对话机器人框架 、 GitHub Typo Corpus：大规模GitHub多语言拼写错误/语法错误数据集、TextCluster：短文本聚类预处理模块 Short text cluster、面向语音识别的中文文本规范化、BLINK：最先进的实体链接库、BertPunc：基于BERT的最先进标点修复模型、Tokenizer：快速、可定制的文本词条化库、中文语言理解测评基准，包括代表性的数据集、基准(预训练)模型、语料库、排行榜、spaCy 医学文本挖掘与信息提取 、 NLP任务示例项目代码集、 python拼写检查库、chatbot-list - 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍、语音质量评价指标(MOSNet, BSSEval, STOI, PESQ, SRMR)、 用138GB语料训练的法文RoBERTa预训练语言模型 、BERT-NER-Pytorch：三种不同模式的BERT中文NER实验、无道词典 - 有道词典的命令行版本，支持英汉互查和在线查询、2019年NLP亮点回顾、 Chinese medical dialogue data 中文医疗对话数据集 、最好的汉字数字(中文数字)-阿拉伯数字转换工具、 基于百科知识库的中文词语多词义/义项获取与特定句子词语语义消歧、awesome-nlp-sentiment-analysis - 情感分析、情绪原因识别、评价对象和评价词抽取、LineFlow：面向所有深度学习框架的NLP数据高效加载器、中文医学NLP公开资源整理 、MedQuAD：(英文)医学问答数据集、将自然语言数字串解析转换为整数和浮点数、Transfer Learning in Natural Language Processing (NLP) 、面向语音识别的中文/英文发音辞典、Tokenizers：注重性能与多功能性的最先进分词器、CLUENER 细粒度命名实体识别 Fine Grained Named Entity Recognition、 基于BERT的中文命名实体识别、中文谣言数据库、NLP数据集/基准任务大列表、nlp相关的一些论文及代码, 包括主题模型、词向量(Word Embedding)、命名实体识别(NER)、文本分类(Text Classificatin)、文本生成(Text Generation)、文本相似性(Text Similarity)计算等，涉及到各种与nlp相关的算法，基于keras和tensorflow 、Python文本挖掘/NLP实战示例、 Blackstone：面向非结构化法律文本的spaCy pipeline和NLP模型通过同义词替换实现文本“变脸” 、中文 预训练 ELECTREA 模型: 基于对抗学习 pretrain Chinese Model 、albert-chinese-ner - 用预训练语言模型ALBERT做中文NER 、基于GPT2的特定主题文本生成/文本增广、开源预训练语言模型合集、多语言句向量包、编码、标记和实现：一种可控高效的文本生成方法、 英文脏话大列表 、attnvis：GPT2、BERT等transformer语言模型注意力交互可视化、CoVoST：Facebook发布的多语种语音-文本翻译语料库，包括11种语言(法语、德语、荷兰语、俄语、西班牙语、意大利语、土耳其语、波斯语、瑞典语、蒙古语和中文)的语音、文字转录及英文译文、Jiagu自然语言处理工具 - 以BiLSTM等模型为基础，提供知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类等功能、用unet实现对文档表格的自动检测，表格重建、NLP事件提取文献资源列表 、 金融领域自然语言处理研究资源大列表、CLUEDatasetSearch - 中英文NLP数据集：搜索所有中文NLP数据集，附常用英文NLP数据集 、medical_NER - 中文医学知识图谱命名实体识别 、(哈佛)讲因果推理的免费书、知识图谱相关学习资料/数据集/工具资源大列表、Forte：灵活强大的自然语言处理pipeline工具集 、Python字符串相似性算法库、PyLaia：面向手写文档分析的深度学习工具包、TextFooler：针对文本分类/推理的对抗文本生成模块、Haystack：灵活、强大的可扩展问答(QA)框架、中文关键短语抽取工具",https://github.com/fighting41love/funNLP,23887,23887,7214
-Detectron,"FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.",https://github.com/facebookresearch/Detectron,23631,23631,5222
-gym,A toolkit for developing and comparing reinforcement learning algorithms.,https://github.com/openai/gym,22092,22092,6259
-YouCompleteMe,A code-completion engine for Vim,https://github.com/ycm-core/YouCompleteMe,21778,21778,2527
-linux-insides,A little bit about a linux kernel,https://github.com/0xAX/linux-insides,21682,21682,2442
-wtfpython,What the f*ck Python?,https://github.com/satwikkansal/wtfpython,21436,21436,1952
-pipenv, Python Development Workflow for Humans.,https://github.com/pypa/pipenv,20938,20938,1540
-ItChat,A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。,https://github.com/littlecodersh/ItChat,20780,20780,4867
-interactive-coding-challenges,120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.,https://github.com/donnemartin/interactive-coding-challenges,20715,20715,3250
-HanLP,中文分词 词性标注 命名实体识别 依存句法分析 语义依存分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理,https://github.com/hankcs/HanLP,20628,20628,5634
-compose,Define and run multi-container applications with Docker,https://github.com/docker/compose,20614,20614,3369
-fastapi,"FastAPI framework, high performance, easy to learn, fast to code, ready for production",https://github.com/tiangolo/fastapi,20604,20604,1383
-mitmproxy,An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.,https://github.com/mitmproxy/mitmproxy,19819,19819,2596
-DeepFaceLab,DeepFaceLab is the leading software for creating deepfakes.,https://github.com/iperov/DeepFaceLab,19604,19604,4601
-data-science-ipython-notebooks,"Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",https://github.com/donnemartin/data-science-ipython-notebooks,19437,19437,6117
-tornado,"Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.",https://github.com/tornadoweb/tornado,19401,19401,5231
-Real-Time-Voice-Cloning,Clone a voice in 5 seconds to generate arbitrary speech in real-time,https://github.com/CorentinJ/Real-Time-Voice-Cloning,19330,19330,3753
-cheat.sh,the only cheat sheet you need,https://github.com/chubin/cheat.sh,19305,19305,954
-algo,Set up a personal VPN in the cloud,https://github.com/trailofbits/algo,19141,19141,1639
-django-rest-framework,Web APIs for Django. 🎸,https://github.com/encode/django-rest-framework,18704,18704,5285
-d2l-zh,《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。,https://github.com/d2l-ai/d2l-zh,18610,18610,4796
-Python,My Python Examples,https://github.com/geekcomputers/Python,18586,18586,8703
-airflow,"Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",https://github.com/apache/airflow,18134,18134,7030
-sqlmap,Automatic SQL injection and database takeover tool,https://github.com/sqlmapproject/sqlmap,18094,18094,3923
-pytorch-tutorial,PyTorch Tutorial for Deep Learning Researchers,https://github.com/yunjey/pytorch-tutorial,17962,17962,5746
-algorithms,Minimal examples of data structures and algorithms in Python,https://github.com/keon/algorithms,17796,17796,3601
-black,The uncompromising Python code formatter,https://github.com/psf/black,17771,17771,1084
-Mask_RCNN,Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow,https://github.com/matterport/Mask_RCNN,17690,17690,8598
-python-fire,Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.,https://github.com/google/python-fire,17661,17661,1085
-macOS-Security-and-Privacy-Guide,Guide to securing and improving privacy on macOS,https://github.com/drduh/macOS-Security-and-Privacy-Guide,17170,17170,1215
-spaCy,💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython,https://github.com/explosion/spaCy,17164,17164,3089
-glances,"Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.",https://github.com/nicolargo/glances,16738,16738,1096
+system-design-primer,Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.,https://github.com/donnemartin/system-design-primer,106244,106244,19071
+public-apis,A collective list of free APIs for use in software and web development.,https://github.com/public-apis/public-apis,95646,95646,11525
+awesome-python,"A curated list of awesome Python frameworks, libraries, software and resources",https://github.com/vinta/awesome-python,86409,86409,16977
+Python,All Algorithms implemented in Python,https://github.com/TheAlgorithms/Python,84352,84352,24854
+youtube-dl,Command-line program to download videos from YouTube.com and other video sites,https://github.com/ytdl-org/youtube-dl,70538,70538,12332
+models,Models and examples built with TensorFlow,https://github.com/tensorflow/models,65991,65991,42168
+thefuck,Magnificent app which corrects your previous console command.,https://github.com/nvbn/thefuck,55384,55384,2743
+flask,The Python micro framework for building web applications.,https://github.com/pallets/flask,51945,51945,13746
+django,The Web framework for perfectionists with deadlines.,https://github.com/django/django,51839,51839,22444
+keras,Deep Learning for humans,https://github.com/keras-team/keras,49666,49666,18570
+httpie,"As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp",https://github.com/httpie/httpie,48005,48005,3084
+awesome-machine-learning,"A curated list of awesome Machine Learning frameworks, libraries and software.",https://github.com/josephmisiti/awesome-machine-learning,46419,46419,11649
+ansible,"Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",https://github.com/ansible/ansible,44670,44670,19571
+requests,"A simple, yet elegant HTTP library.",https://github.com/psf/requests,43466,43466,7887
+scikit-learn,scikit-learn: machine learning in Python,https://github.com/scikit-learn/scikit-learn,42146,42146,20323
+scrapy,"Scrapy, a fast high-level web crawling & scraping framework for Python.",https://github.com/scrapy/scrapy,38216,38216,8787
+big-list-of-naughty-strings,The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.,https://github.com/minimaxir/big-list-of-naughty-strings,37942,37942,1684
+face_recognition,The world's simplest facial recognition api for Python and the command line,https://github.com/ageitgey/face_recognition,36140,36140,10112
+core,:house_with_garden: Open source home automation that puts local control and privacy first,https://github.com/home-assistant/core,35336,35336,11378
+you-get,:arrow_double_down: Dumb downloader that scrapes the web,https://github.com/soimort/you-get,34871,34871,6988
+transformers,🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.,https://github.com/huggingface/transformers,33415,33415,8003
+cpython,The Python programming language,https://github.com/python/cpython,33389,33389,15984
+HelloGitHub,:octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目,https://github.com/521xueweihan/HelloGitHub,33376,33376,4979
+shadowsocks,,https://github.com/shadowsocks/shadowsocks,32768,32768,19701
+faceswap,Deepfakes Software For All,https://github.com/deepfakes/faceswap,32266,32266,10097
+XX-Net,A proxy tool to bypass GFW.,https://github.com/XX-net/XX-Net,30298,30298,7877
+incubator-superset,Apache Superset is a Data Visualization and Data Exploration Platform,https://github.com/apache/incubator-superset,29959,29959,6204
+interview_internal_reference,2020年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。,https://github.com/0voice/interview_internal_reference,28780,28780,7897
+12306,12306智能刷票，订票,https://github.com/testerSunshine/12306,28657,28657,9082
+CppCoreGuidelines,"The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",https://github.com/isocpp/CppCoreGuidelines,28425,28425,3788
+Deep-Learning-Papers-Reading-Roadmap,Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!,https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap,28284,28284,6266
+certbot,Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.,https://github.com/certbot/certbot,27144,27144,2960
+AiLearning,AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP,https://github.com/apachecn/AiLearning,26750,26750,9176
+pandas,"Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",https://github.com/pandas-dev/pandas,26433,26433,10827
+localstack,💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!,https://github.com/localstack/localstack,26255,26255,2002
+sentry,"Sentry is cross-platform application monitoring, with a focus on error reporting.",https://github.com/getsentry/sentry,25983,25983,2926
+python-patterns,A collection of design patterns/idioms in Python,https://github.com/faif/python-patterns,25778,25778,5415
+manim,Animation engine for explanatory math videos,https://github.com/3b1b/manim,25185,25185,3222
+bert,TensorFlow code and pre-trained models for BERT,https://github.com/google-research/bert,24759,24759,6973
+jieba,结巴中文分词,https://github.com/fxsjy/jieba,24033,24033,5884
+funNLP,"中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库、构建医疗实体识别的模型（包含词典和语料标注）、单文档非监督的关键词抽取、Kashgari中使用gpt-2语言模型、开源的金融投资数据提取工具、文本自动摘要库TextTeaser: 仅支持英文、人民日报语料处理工具集、一些关于自然语言的基本模型、基于14W歌曲知识库的问答尝试--功能包括歌词接龙and已知歌词找歌曲以及歌曲歌手歌词三角关系的问答、基于Siamese bilstm模型的相似句子判定模型并提供训练数据集和测试数据集、用Transformer编解码模型实现的根据Hacker News文章标题自动生成评论、用BERT进行序列标记和文本分类的模板代码、LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记英文小说语料、百度开源的基准信息抽取系统、虚假新闻数据集、Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口、CommonsenseQA：面向常识的英文QA挑战、中文知识图谱资料、数据及工具、各大公司内部里大牛分享的技术文档 PDF 或者 PPT、自然语言生成SQL语句（英文）、中文NLP数据增强（EDA）工具、英文NLP数据增强工具 、基于医药知识图谱的智能问答系统、京东商品知识图谱、基于mongodb存储的军事领域知识图谱问答项目、基于远监督的中文关系抽取、语音情感分析、中文ULMFiT-情感分析-文本分类-语料及模型、一个拍照做题程序、世界各国大规模人名库、一个利用有趣中文语料库 qingyun 训练出来的中文聊天机器人、中文聊天机器人seqGAN、省市区镇行政区划数据带拼音标注、教育行业新闻语料库包含自动文摘功能、开放了对话机器人-知识图谱-语义理解-自然语言处理工具及数据、中文知识图谱：基于百度百科中文页面-抽取三元组信息-构建中文知识图谱、masr: 中文语音识别-提供预训练模型-高识别率、Python音频数据增广库、中文全词覆盖BERT及两份阅读理解数据、ConvLab：开源多域端到端对话系统平台、中文自然语言处理数据集、基于最新版本rasa搭建的对话系统、基于TensorFlow和BERT的管道式实体及关系抽取、一个小型的证券知识图谱/知识库、复盘所有NLP比赛的TOP方案、OpenCLaP：多领域开源中文预训练语言模型仓库、UER：基于不同语料+编码器+目标任务的中文预训练模型仓库、中文自然语言处理向量合集、基于金融-司法领域(兼有闲聊性质)的聊天机器人、g2pC：基于上下文的汉语读音自动标记模块、Zincbase 知识图谱构建工具包、诗歌质量评价/细粒度情感诗歌语料库、快速转化「中文数字」和「阿拉伯数字」、百度知道问答语料库、基于知识图谱的问答系统、jieba_fast 加速版的jieba、正则表达式教程、中文阅读理解数据集、基于BERT等最新语言模型的抽取式摘要提取、Python利用深度学习进行文本摘要的综合指南、知识图谱深度学习相关资料整理、维基大规模平行文本语料、StanfordNLP 0.2.0：纯Python版自然语言处理包、NeuralNLP-NeuralClassifier：腾讯开源深度学习文本分类工具、端到端的封闭域对话系统、中文命名实体识别：NeuroNER vs. BertNER、新闻事件线索抽取、2019年百度的三元组抽取比赛：“科学空间队”源码、基于依存句法的开放域文本知识三元组抽取和知识库构建、中文的GPT2训练代码、ML-NLP - 机器学习(Machine Learning)NLP面试中常考到的知识点和代码实现、nlp4han:中文自然语言处理工具集(断句/分词/词性标注/组块/句法分析/语义分析/NER/N元语法/HMM/代词消解/情感分析/拼写检查、XLM：Facebook的跨语言预训练语言模型、用基于BERT的微调和特征提取方法来进行知识图谱百度百科人物词条属性抽取、中文自然语言处理相关的开放任务-数据集-当前最佳结果、CoupletAI - 基于CNN+Bi-LSTM+Attention 的自动对对联系统、抽象知识图谱、MiningZhiDaoQACorpus - 580万百度知道问答数据挖掘项目、brat rapid annotation tool: 序列标注工具、大规模中文知识图谱数据：1.4亿实体、数据增强在机器翻译及其他nlp任务中的应用及效果、allennlp阅读理解:支持多种数据和模型、PDF表格数据提取工具 、 Graphbrain：AI开源软件库和科研工具，目的是促进自动意义提取和文本理解以及知识的探索和推断、简历自动筛选系统、基于命名实体识别的简历自动摘要、中文语言理解测评基准，包括代表性的数据集&基准模型&语料库&排行榜、树洞 OCR 文字识别 、从包含表格的扫描图片中识别表格和文字、语声迁移、Python口语自然语言处理工具集(英文)、 similarity：相似度计算工具包，java编写、海量中文预训练ALBERT模型 、Transformers 2.0 、基于大规模音频数据集Audioset的音频增强 、Poplar：网页版自然语言标注工具、图片文字去除，可用于漫画翻译 、186种语言的数字叫法库、Amazon发布基于知识的人-人开放领域对话数据集 、中文文本纠错模块代码、繁简体转换 、 Python实现的多种文本可读性评价指标、类似于人名/地名/组织机构名的命名体识别数据集 、东南大学《知识图谱》研究生课程(资料)、. 英文拼写检查库 、 wwsearch是企业微信后台自研的全文检索引擎、CHAMELEON：深度学习新闻推荐系统元架构 、 8篇论文梳理BERT相关模型进展与反思、DocSearch：免费文档搜索引擎、 LIDA：轻量交互式对话标注工具 、aili - the fastest in-memory index in the East 东半球最快并发索引 、知识图谱车音工作项目、自然语言生成资源大全 、中日韩分词库mecab的Python接口库、中文文本摘要/关键词提取、汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征、中文生成任务基准测评 、中文缩写数据集、中文任务基准测评 - 代表性的数据集-基准(预训练)模型-语料库-baseline-工具包-排行榜、PySS3：面向可解释AI的SS3文本分类器机器可视化工具 、中文NLP数据集列表、COPE - 格律诗编辑程序、doccano：基于网页的开源协同多语言文本标注工具 、PreNLP：自然语言预处理库、简单的简历解析器，用来从简历中提取关键信息、用于中文闲聊的GPT2模型：GPT2-chitchat、基于检索聊天机器人多轮响应选择相关资源列表(Leaderboards、Datasets、Papers)、(Colab)抽象文本摘要实现集锦(教程 、词语拼音数据、高效模糊搜索工具、NLP数据增广资源集、微软对话机器人框架 、 GitHub Typo Corpus：大规模GitHub多语言拼写错误/语法错误数据集、TextCluster：短文本聚类预处理模块 Short text cluster、面向语音识别的中文文本规范化、BLINK：最先进的实体链接库、BertPunc：基于BERT的最先进标点修复模型、Tokenizer：快速、可定制的文本词条化库、中文语言理解测评基准，包括代表性的数据集、基准(预训练)模型、语料库、排行榜、spaCy 医学文本挖掘与信息提取 、 NLP任务示例项目代码集、 python拼写检查库、chatbot-list - 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍、语音质量评价指标(MOSNet, BSSEval, STOI, PESQ, SRMR)、 用138GB语料训练的法文RoBERTa预训练语言模型 、BERT-NER-Pytorch：三种不同模式的BERT中文NER实验、无道词典 - 有道词典的命令行版本，支持英汉互查和在线查询、2019年NLP亮点回顾、 Chinese medical dialogue data 中文医疗对话数据集 、最好的汉字数字(中文数字)-阿拉伯数字转换工具、 基于百科知识库的中文词语多词义/义项获取与特定句子词语语义消歧、awesome-nlp-sentiment-analysis - 情感分析、情绪原因识别、评价对象和评价词抽取、LineFlow：面向所有深度学习框架的NLP数据高效加载器、中文医学NLP公开资源整理 、MedQuAD：(英文)医学问答数据集、将自然语言数字串解析转换为整数和浮点数、Transfer Learning in Natural Language Processing (NLP) 、面向语音识别的中文/英文发音辞典、Tokenizers：注重性能与多功能性的最先进分词器、CLUENER 细粒度命名实体识别 Fine Grained Named Entity Recognition、 基于BERT的中文命名实体识别、中文谣言数据库、NLP数据集/基准任务大列表、nlp相关的一些论文及代码, 包括主题模型、词向量(Word Embedding)、命名实体识别(NER)、文本分类(Text Classificatin)、文本生成(Text Generation)、文本相似性(Text Similarity)计算等，涉及到各种与nlp相关的算法，基于keras和tensorflow 、Python文本挖掘/NLP实战示例、 Blackstone：面向非结构化法律文本的spaCy pipeline和NLP模型通过同义词替换实现文本“变脸” 、中文 预训练 ELECTREA 模型: 基于对抗学习 pretrain Chinese Model 、albert-chinese-ner - 用预训练语言模型ALBERT做中文NER 、基于GPT2的特定主题文本生成/文本增广、开源预训练语言模型合集、多语言句向量包、编码、标记和实现：一种可控高效的文本生成方法、 英文脏话大列表 、attnvis：GPT2、BERT等transformer语言模型注意力交互可视化、CoVoST：Facebook发布的多语种语音-文本翻译语料库，包括11种语言(法语、德语、荷兰语、俄语、西班牙语、意大利语、土耳其语、波斯语、瑞典语、蒙古语和中文)的语音、文字转录及英文译文、Jiagu自然语言处理工具 - 以BiLSTM等模型为基础，提供知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类等功能、用unet实现对文档表格的自动检测，表格重建、NLP事件提取文献资源列表 、 金融领域自然语言处理研究资源大列表、CLUEDatasetSearch - 中英文NLP数据集：搜索所有中文NLP数据集，附常用英文NLP数据集 、medical_NER - 中文医学知识图谱命名实体识别 、(哈佛)讲因果推理的免费书、知识图谱相关学习资料/数据集/工具资源大列表、Forte：灵活强大的自然语言处理pipeline工具集 、Python字符串相似性算法库、PyLaia：面向手写文档分析的深度学习工具包、TextFooler：针对文本分类/推理的对抗文本生成模块、Haystack：灵活、强大的可扩展问答(QA)框架、中文关键短语抽取工具",https://github.com/fighting41love/funNLP,24029,24029,7236
+Detectron,"FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.",https://github.com/facebookresearch/Detectron,23634,23634,5222
+gym,A toolkit for developing and comparing reinforcement learning algorithms.,https://github.com/openai/gym,22097,22097,6260
+YouCompleteMe,A code-completion engine for Vim,https://github.com/ycm-core/YouCompleteMe,21787,21787,2528
+linux-insides,A little bit about a linux kernel,https://github.com/0xAX/linux-insides,21685,21685,2441
+wtfpython,What the f*ck Python?,https://github.com/satwikkansal/wtfpython,21447,21447,1954
+pipenv, Python Development Workflow for Humans.,https://github.com/pypa/pipenv,20940,20940,1539
+ItChat,A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。,https://github.com/littlecodersh/ItChat,20789,20789,4865
+interactive-coding-challenges,120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.,https://github.com/donnemartin/interactive-coding-challenges,20725,20725,3252
+fastapi,"FastAPI framework, high performance, easy to learn, fast to code, ready for production",https://github.com/tiangolo/fastapi,20651,20651,1383
+HanLP,中文分词 词性标注 命名实体识别 依存句法分析 语义依存分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理,https://github.com/hankcs/HanLP,20645,20645,5634
+compose,Define and run multi-container applications with Docker,https://github.com/docker/compose,20623,20623,3372
+mitmproxy,An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.,https://github.com/mitmproxy/mitmproxy,19829,19829,2598
+DeepFaceLab,DeepFaceLab is the leading software for creating deepfakes.,https://github.com/iperov/DeepFaceLab,19632,19632,4610
+data-science-ipython-notebooks,"Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",https://github.com/donnemartin/data-science-ipython-notebooks,19445,19445,6142
+tornado,"Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.",https://github.com/tornadoweb/tornado,19405,19405,5231
+Real-Time-Voice-Cloning,Clone a voice in 5 seconds to generate arbitrary speech in real-time,https://github.com/CorentinJ/Real-Time-Voice-Cloning,19338,19338,3759
+cheat.sh,the only cheat sheet you need,https://github.com/chubin/cheat.sh,19308,19308,953
+algo,Set up a personal VPN in the cloud,https://github.com/trailofbits/algo,19146,19146,1640
+django-rest-framework,Web APIs for Django. 🎸,https://github.com/encode/django-rest-framework,18718,18718,5289
+d2l-zh,《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。,https://github.com/d2l-ai/d2l-zh,18618,18618,4798
+Python,My Python Examples,https://github.com/geekcomputers/Python,18599,18599,8708
+airflow,"Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",https://github.com/apache/airflow,18150,18150,7042
+sqlmap,Automatic SQL injection and database takeover tool,https://github.com/sqlmapproject/sqlmap,18103,18103,3927
+pytorch-tutorial,PyTorch Tutorial for Deep Learning Researchers,https://github.com/yunjey/pytorch-tutorial,17973,17973,5744
+algorithms,Minimal examples of data structures and algorithms in Python,https://github.com/keon/algorithms,17806,17806,3604
+black,The uncompromising Python code formatter,https://github.com/psf/black,17777,17777,1085
+Mask_RCNN,Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow,https://github.com/matterport/Mask_RCNN,17700,17700,8603
+python-fire,Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.,https://github.com/google/python-fire,17663,17663,1086
+macOS-Security-and-Privacy-Guide,Guide to securing and improving privacy on macOS,https://github.com/drduh/macOS-Security-and-Privacy-Guide,17178,17178,1215
+spaCy,💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython,https://github.com/explosion/spaCy,17169,17169,3089
+glances,"Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.",https://github.com/nicolargo/glances,16747,16747,1096
 ML-From-Scratch,Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.,https://github.com/eriklindernoren/ML-From-Scratch,16723,16723,3315
-NLP-progress,"Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.",https://github.com/sebastianruder/NLP-progress,16623,16623,2853
-algo,数据结构和算法必知必会的50个代码实现,https://github.com/wangzheng0822/algo,16415,16415,5272
-PayloadsAllTheThings,A list of useful payloads and bypass for Web Application Security and Pentest/CTF,https://github.com/swisskyrepo/PayloadsAllTheThings,16405,16405,5252
-hosts,"Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.",https://github.com/StevenBlack/hosts,16035,16035,1455
-ZeroNet,ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network,https://github.com/HelloZeroNet/ZeroNet,16024,16024,2044
-celery,Distributed Task Queue (development branch),https://github.com/celery/celery,15723,15723,3802
-tqdm,"A Fast, Extensible Progress Bar for Python and CLI",https://github.com/tqdm/tqdm,15686,15686,818
-magenta,Magenta: Music and Art Generation with Machine Intelligence,https://github.com/magenta/magenta,15583,15583,3183
-reddit,historical code from reddit.com,https://github.com/reddit-archive/reddit,15466,15466,2841
-python-cheatsheet,Comprehensive Python Cheatsheet,https://github.com/gto76/python-cheatsheet,15390,15390,2980
-TensorFlow-Course,Simple and ready-to-use tutorials for TensorFlow ,https://github.com/instillai/TensorFlow-Course,14822,14822,3018
-professional-programming,A collection of full-stack resources for programmers.,https://github.com/charlax/professional-programming,14581,14581,1307
-sherlock,🔎 Hunt down social media accounts by username across social networks,https://github.com/sherlock-project/sherlock,14565,14565,1483
-pyspider,A Powerful Spider(Web Crawler) System in Python.,https://github.com/binux/pyspider,14551,14551,3523
-ipython,"Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.",https://github.com/ipython/ipython,14367,14367,4037
-Awesome-Linux-Software,"A list of awesome applications, software, tools and other materials for Linux distros. ",https://github.com/luong-komorebi/Awesome-Linux-Software,14208,14208,1478
-toml,"Tom's Obvious, Minimal Language",https://github.com/toml-lang/toml,14104,14104,703
+NLP-progress,"Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.",https://github.com/sebastianruder/NLP-progress,16630,16630,2853
+algo,数据结构和算法必知必会的50个代码实现,https://github.com/wangzheng0822/algo,16426,16426,5277
+PayloadsAllTheThings,A list of useful payloads and bypass for Web Application Security and Pentest/CTF,https://github.com/swisskyrepo/PayloadsAllTheThings,16422,16422,5252
+hosts,"Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.",https://github.com/StevenBlack/hosts,16037,16037,1457
+ZeroNet,ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network,https://github.com/HelloZeroNet/ZeroNet,16027,16027,2045
+celery,Distributed Task Queue (development branch),https://github.com/celery/celery,15734,15734,3808
+tqdm,"A Fast, Extensible Progress Bar for Python and CLI",https://github.com/tqdm/tqdm,15703,15703,818
+magenta,Magenta: Music and Art Generation with Machine Intelligence,https://github.com/magenta/magenta,15590,15590,3183
+reddit,historical code from reddit.com,https://github.com/reddit-archive/reddit,15464,15464,2840
+python-cheatsheet,Comprehensive Python Cheatsheet,https://github.com/gto76/python-cheatsheet,15395,15395,2983
+TensorFlow-Course,Simple and ready-to-use tutorials for TensorFlow ,https://github.com/instillai/TensorFlow-Course,14824,14824,3018
+sherlock,🔎 Hunt down social media accounts by username across social networks,https://github.com/sherlock-project/sherlock,14601,14601,1486
+professional-programming,A collection of full-stack resources for programmers.,https://github.com/charlax/professional-programming,14582,14582,1306
+pyspider,A Powerful Spider(Web Crawler) System in Python.,https://github.com/binux/pyspider,14558,14558,3523
+ipython,"Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.",https://github.com/ipython/ipython,14368,14368,4037
+Awesome-Linux-Software,"A list of awesome applications, software, tools and other materials for Linux distros. ",https://github.com/luong-komorebi/Awesome-Linux-Software,14209,14209,1477
+toml,"Tom's Obvious, Minimal Language",https://github.com/toml-lang/toml,14110,14110,703
 sanic,Async Python 3.6+ web server/framework | Build fast. Run fast.,https://github.com/huge-success/sanic,14073,14073,1285
-examples,"A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.",https://github.com/pytorch/examples,14046,14046,6591
-spleeter,Deezer source separation library including pretrained models.,https://github.com/deezer/spleeter,13971,13971,1370
-bitcoinbook,Mastering Bitcoin 2nd Edition - Programming the Open Blockchain,https://github.com/bitcoinbook/bitcoinbook,13966,13966,3988
-bokeh,"Interactive Data Visualization in the browser, from  Python",https://github.com/bokeh/bokeh,13932,13932,3487
-wechat_jump_game,微信《跳一跳》Python 辅助,https://github.com/wangshub/wechat_jump_game,13891,13891,4573
-PySnooper,Never use print for debugging again,https://github.com/cool-RR/PySnooper,13751,13751,859
-locust,Scalable user load testing tool written in Python,https://github.com/locustio/locust,13718,13718,1918
-nginx-proxy,Automated nginx proxy for Docker containers using docker-gen,https://github.com/nginx-proxy/nginx-proxy,13691,13691,2477
-luigi,"Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. ",https://github.com/spotify/luigi,13686,13686,2170
-apistar,The Web API toolkit. 🛠,https://github.com/encode/apistar,5482,5482,432
-interpy-zh,📘《Python进阶》（Intermediate Python 中文版）,https://github.com/eastlakeside/interpy-zh,5468,5468,1274
-chainer,A flexible framework of neural networks for deep learning,https://github.com/chainer/chainer,5448,5448,1370
-webpy,web.py is a web framework for python that is as simple as it is powerful. ,https://github.com/webpy/webpy,5447,5447,1310
-bypy,Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端,https://github.com/houtianze/bypy,5440,5440,1168
-cython,The most widely used Python to C compiler,https://github.com/cython/cython,5430,5430,1066
-machine_learning_examples,A collection of machine learning examples and tutorials.,https://github.com/lazyprogrammer/machine_learning_examples,5429,5429,4920
-stylegan2,StyleGAN2 - Official TensorFlow Implementation,https://github.com/NVlabs/stylegan2,5427,5427,1147
-Flashlight,The missing Spotlight plugin system,https://github.com/nate-parrott/Flashlight,5426,5426,441
-werkzeug,The comprehensive WSGI web application library.,https://github.com/pallets/werkzeug,5426,5426,1475
-discord.py,An API wrapper for Discord written in Python.,https://github.com/Rapptz/discord.py,5421,5421,1604
-xlnet,XLNet: Generalized Autoregressive Pretraining for Language Understanding,https://github.com/zihangdai/xlnet,5417,5417,1072
-sh,Python process launching,https://github.com/amoffat/sh,5396,5396,427
-opensnitch,OpenSnitch is a GNU/Linux port of the Little Snitch application firewall,https://github.com/evilsocket/opensnitch,5381,5381,281
-programming-talks,Awesome & interesting talks about programming,https://github.com/hellerve/programming-talks,5378,5378,388
-awesome-cheatsheet,:beers: awesome cheatsheet,https://github.com/detailyang/awesome-cheatsheet,5375,5375,857
-practical-python,Practical Python Programming (course by @dabeaz),https://github.com/dabeaz-course/practical-python,5365,5365,2607
-powerline-shell,A beautiful and useful prompt for your shell,https://github.com/b-ryan/powerline-shell,5362,5362,714
-taiga-back,Agile project management platform. Built on top of Django and AngularJS,https://github.com/taigaio/taiga-back,5361,5361,1049
-wav2letter,Facebook AI Research's Automatic Speech Recognition Toolkit ,https://github.com/facebookresearch/wav2letter,5346,5346,905
-impacket,Impacket is a collection of Python classes for working with network protocols.,https://github.com/SecureAuthCorp/impacket,5344,5344,1584
-labelme,"Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).",https://github.com/wkentaro/labelme,5328,5328,1645
-docker-stacks,Ready-to-run Docker images containing Jupyter applications,https://github.com/jupyter/docker-stacks,5328,5328,2121
-open_nsfw,Not Suitable for Work (NSFW) classification using deep neural network Caffe models.,https://github.com/yahoo/open_nsfw,5320,5320,1037
-codeface,Typefaces for source code beautification,https://github.com/chrissimpkins/codeface,5320,5320,405
-fail2ban,Daemon to ban hosts that cause multiple authentication errors,https://github.com/fail2ban/fail2ban,5300,5300,879
-seq2seq,A general-purpose encoder-decoder framework for Tensorflow,https://github.com/google/seq2seq,5288,5288,1269
-progressive_growing_of_gans,"Progressive Growing of GANs for Improved Quality, Stability, and Variation",https://github.com/tkarras/progressive_growing_of_gans,5273,5273,1021
-cnn-text-classification-tf,Convolutional Neural Network for Text Classification in Tensorflow,https://github.com/dennybritz/cnn-text-classification-tf,5273,5273,2689
-data-science-from-scratch,code for Data Science From Scratch book,https://github.com/joelgrus/data-science-from-scratch,5266,5266,3144
-gevent,Coroutine-based concurrency library for Python,https://github.com/gevent/gevent,5265,5265,877
-deoplete.nvim,:stars: Dark powered asynchronous completion framework for neovim/Vim8,https://github.com/Shougo/deoplete.nvim,5265,5265,288
-Dshell,Dshell is a network forensic analysis framework.,https://github.com/USArmyResearchLab/Dshell,5262,5262,1163
-Ultra-Light-Fast-Generic-Face-Detector-1MB, 💎1MB lightweight face detection model  (1MB轻量级人脸检测模型),https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB,5242,5242,1191
-ImageAI,A python library built to empower developers to build applications and systems  with self-contained Computer Vision capabilities,https://github.com/OlafenwaMoses/ImageAI,5233,5233,1510
-boltons,"🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.",https://github.com/mahmoud/boltons,5233,5233,281
-data-science-blogs,A curated list of data science blogs,https://github.com/rushter/data-science-blogs,5230,5230,1563
-pymc3,Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano,https://github.com/pymc-devs/pymc3,5229,5229,1261
-modin,Modin: Speed up your Pandas workflows by changing a single line of code,https://github.com/modin-project/modin,5229,5229,358
-neural-style,Neural style in TensorFlow! 🎨,https://github.com/anishathalye/neural-style,5228,5228,1501
-urh,Universal Radio Hacker: Investigate Wireless Protocols Like A Boss,https://github.com/jopohl/urh,5211,5211,522
-spinningup,An educational resource to help anyone learn deep reinforcement learning.,https://github.com/openai/spinningup,5211,5211,1139
-edx-platform,"The Open edX platform, the software that powers edX!",https://github.com/edx/edx-platform,5209,5209,2859
-voltron,A hacky debugger UI for hackers,https://github.com/snare/voltron,5207,5207,352
-aws-sam-cli,"CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM",https://github.com/aws/aws-sam-cli,5201,5201,808
-iOSBlogCN,中文 iOS/Mac 开发博客列表,https://github.com/tangqiaoboy/iOSBlogCN,5176,5176,1331
-eht-imaging,"Imaging, analysis, and simulation software for radio interferometry",https://github.com/achael/eht-imaging,5161,5161,463
-srez,Image super-resolution through deep learning,https://github.com/david-gpu/srez,5152,5152,663
-neuraltalk,NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.,https://github.com/karpathy/neuraltalk,5145,5145,1350
-nlp-recipes,Natural Language Processing Best Practices & Examples,https://github.com/microsoft/nlp-recipes,5142,5142,696
-Sublist3r,Fast subdomains enumeration tool for penetration testers,https://github.com/aboul3la/Sublist3r,5125,5125,1299
-meshroom,3D Reconstruction Software,https://github.com/alicevision/meshroom,5125,5125,520
-wxBot,Python网页微信API,https://github.com/liuwons/wxBot,5106,5106,1662
-dejavu,Audio fingerprinting and recognition in Python,https://github.com/worldveil/dejavu,5106,5106,1195
-dev-setup,"macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.",https://github.com/donnemartin/dev-setup,5099,5099,1025
-models,Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）,https://github.com/PaddlePaddle/models,5092,5092,2387
-streamlink,Streamlink is a CLI utility which pipes video streams from various services into a video player,https://github.com/streamlink/streamlink,5080,5080,591
-featuretools,An open source python library for automated feature engineering,https://github.com/FeatureLabs/featuretools,5062,5062,662
-PyTorch-YOLOv3,Minimal PyTorch implementation of YOLOv3,https://github.com/eriklindernoren/PyTorch-YOLOv3,5061,5061,1999
-truffleHog,"Searches through git repositories for high entropy strings and secrets, digging deep into commit history",https://github.com/dxa4481/truffleHog,5059,5059,683
-speech_recognition,"Speech recognition module for Python, supporting several engines and APIs, online and offline.",https://github.com/Uberi/speech_recognition,5058,5058,1747
-python-small-examples,告别枯燥，致力于打造 Python 富有体系且实用的小例子、小案例。,https://github.com/jackzhenguo/python-small-examples,5057,5057,1167
-trape,People tracker on the Internet: OSINT analysis and research tool by Jose Pino,https://github.com/jofpin/trape,5056,5056,946
-SublimeCodeIntel,💡 Full-featured code intelligence and smart autocomplete for Sublime Text,https://github.com/SublimeCodeIntel/SublimeCodeIntel,5042,5042,557
-pkuseg-python,pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation,https://github.com/lancopku/pkuseg-python,5024,5024,794
-PythonSpiderNotes,Python入门网络爬虫之精华版,https://github.com/lining0806/PythonSpiderNotes,5012,5012,1969
-DisableWinTracking,Uses some known methods that attempt to minimize tracking in Windows 10,https://github.com/10se1ucgo/DisableWinTracking,5007,5007,346
-hyperopt,Distributed Asynchronous Hyperparameter Optimization in Python,https://github.com/hyperopt/hyperopt,5006,5006,813
-learn-python,📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.,https://github.com/trekhleb/learn-python,5000,5000,878
-TopDeepLearning,A list of popular github projects related to deep learning,https://github.com/aymericdamien/TopDeepLearning,4992,4992,1067
-byob,BYOB (Build Your Own Botnet),https://github.com/malwaredllc/byob,4975,4975,991
-robotframework,Generic automation framework for acceptance testing and RPA,https://github.com/robotframework/robotframework,4970,4970,1477
-vaex," Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second 🚀",https://github.com/vaexio/vaex,4967,4967,377
-django-extensions,This is a repository for collecting global custom management extensions for the Django Framework. ,https://github.com/django-extensions/django-extensions,4966,4966,979
-marshmallow,A lightweight library for converting complex objects to and from simple Python datatypes.,https://github.com/marshmallow-code/marshmallow,4955,4955,524
-face_classification,Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.,https://github.com/oarriaga/face_classification,4944,4944,1490
-MMdnn,"MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML.",https://github.com/microsoft/MMdnn,4936,4936,924
-snownlp,Python library for processing Chinese text,https://github.com/isnowfy/snownlp,4936,4936,1205
-tensorflow-wavenet,A TensorFlow implementation of DeepMind's WaveNet paper,https://github.com/ibab/tensorflow-wavenet,4925,4925,1249
-gspread,Google Sheets Python API,https://github.com/burnash/gspread,4916,4916,752
-gcn,Implementation of Graph Convolutional Networks in TensorFlow,https://github.com/tkipf/gcn,4913,4913,1519
-autograd,Efficiently computes derivatives of numpy code.,https://github.com/HIPS/autograd,4911,4911,707
-docker-py,A Python library for the Docker Engine API,https://github.com/docker/docker-py,4888,4888,1417
-youtube-dl-gui,A cross platform front-end GUI of the popular youtube-dl written in wxPython.,https://github.com/MrS0m30n3/youtube-dl-gui,4884,4884,731
-folium,Python Data. Leaflet.js Maps. ,https://github.com/python-visualization/folium,4883,4883,1789
-wechat-deleted-friends,查看被删的微信好友,https://github.com/0x5e/wechat-deleted-friends,4876,4876,1659
-have-fun-with-machine-learning,An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks,https://github.com/humphd/have-fun-with-machine-learning,4865,4865,537
-faust,Python Stream Processing,https://github.com/robinhood/faust,4847,4847,394
-trax,Trax — Deep Learning with Clear Code and Speed,https://github.com/google/trax,4833,4833,407
-grip,Preview GitHub README.md files locally before committing them.,https://github.com/joeyespo/grip,4830,4830,330
-prefect,The easiest way to automate your data,https://github.com/PrefectHQ/prefect,4825,4825,359
-Learning-to-See-in-the-Dark,Learning to See in the Dark. CVPR 2018,https://github.com/cchen156/Learning-to-See-in-the-Dark,4824,4824,743
-auto-sklearn,Automated Machine Learning with scikit-learn,https://github.com/automl/auto-sklearn,4818,4818,917
-spiderfoot,SpiderFoot automates OSINT collection so that you can focus on analysis.,https://github.com/smicallef/spiderfoot,4815,4815,947
-pre-commit,A framework for managing and maintaining multi-language pre-commit hooks.,https://github.com/pre-commit/pre-commit,4793,4793,366
-keras-rl,Deep Reinforcement Learning for Keras.,https://github.com/keras-rl/keras-rl,4777,4777,1266
-pix2pixHD,Synthesizing and manipulating 2048x1024 images with conditional GANs,https://github.com/NVIDIA/pix2pixHD,4757,4757,994
-uncaptcha2,defeating the latest version of ReCaptcha with 91% accuracy,https://github.com/ecthros/uncaptcha2,4748,4748,455
-yolov5,YOLOv5 in PyTorch > ONNX > CoreML > iOS,https://github.com/ultralytics/yolov5,4747,4747,1318
-iScript,"各种脚本 -- 关于 虾米 xiami.com, 百度网盘 pan.baidu.com, 115网盘 115.com, 网易音乐 music.163.com, 百度音乐 music.baidu.com, 360网盘/云盘 yunpan.cn, 视频解析 flvxz.com, bt torrent ↔ magnet, ed2k 搜索, tumblr 图片下载, unzip",https://github.com/PeterDing/iScript,4746,4746,1193
-pyodide,"The Python scientific stack, compiled to WebAssembly",https://github.com/iodide-project/pyodide,4141,4141,271
-pycodestyle,Simple Python style checker in one Python file,https://github.com/PyCQA/pycodestyle,4140,4140,576
-Airtest,UI Automation Framework for Games and Apps,https://github.com/AirtestProject/Airtest,4138,4138,718
-serenata-de-amor,🕵 Artificial Intelligence for social control of public administration,https://github.com/okfn-brasil/serenata-de-amor,4137,4137,693
-mezzanine,CMS framework for Django,https://github.com/stephenmcd/mezzanine,4122,4122,1495
-multi-v2ray,v2ray多用户管理部署程序,https://github.com/Jrohy/multi-v2ray,4121,4121,1708
-umap,Uniform Manifold Approximation and Projection,https://github.com/lmcinnes/umap,4109,4109,432
-electrum,Electrum Bitcoin Wallet,https://github.com/spesmilo/electrum,4108,4108,2134
-huxley,A testing system for catching visual regressions in Web applications.,https://github.com/facebookarchive/huxley,4103,4103,304
-isso,a Disqus alternative,https://github.com/posativ/isso,4097,4097,370
-cvat,Powerful and efficient Computer Vision Annotation Tool (CVAT),https://github.com/opencv/cvat,4082,4082,1091
-xmltodict,Python module that makes working with XML feel like you are working with JSON,https://github.com/martinblech/xmltodict,4079,4079,392
-pydantic,Data parsing and validation using Python type hints,https://github.com/samuelcolvin/pydantic,4078,4078,365
-pendulum,Python datetimes made easy,https://github.com/sdispater/pendulum,4072,4072,228
-onionshare,"Securely and anonymously share files, host websites, and chat with friends using the Tor network",https://github.com/micahflee/onionshare,4046,4046,491
-QUANTAXIS,QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权/港股/虚拟货币  数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案,https://github.com/QUANTAXIS/QUANTAXIS,4045,4045,1706
-pygorithm,A Python module for learning all major algorithms,https://github.com/OmkarPathak/pygorithm,4035,4035,474
-instagram-scraper,Scrapes an instagram user's photos and videos,https://github.com/arc298/instagram-scraper,4030,4030,908
-uds,Unlimited Drive Storage by splitting binary files into base64,https://github.com/stewartmcgown/uds,4027,4027,259
-google-api-python-client,🐍 The official Python client library for Google's discovery based APIs.,https://github.com/googleapis/google-api-python-client,4027,4027,1701
-security_monkey,"Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.",https://github.com/Netflix/security_monkey,4027,4027,781
-DataSciencePython,common data analysis and machine learning tasks using python,https://github.com/ujjwalkarn/DataSciencePython,4013,4013,1304
-CrackMapExec,A swiss army knife for pentesting networks,https://github.com/byt3bl33d3r/CrackMapExec,4011,4011,972
-textgenrnn,Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.,https://github.com/minimaxir/textgenrnn,4011,4011,632
-twisted,Event-driven networking engine written in Python.,https://github.com/twisted/twisted,4005,4005,980
-PRNet,Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network (ECCV 2018),https://github.com/YadiraF/PRNet,4005,4005,821
-learning-to-learn,Learning to Learn in TensorFlow,https://github.com/deepmind/learning-to-learn,3995,3995,600
-kinto,A generic JSON document store with sharing and synchronisation capabilities.,https://github.com/Kinto/kinto,3992,3992,382
-kafka-python,Python client for Apache Kafka,https://github.com/dpkp/kafka-python,3989,3989,1087
-Deep-Learning-21-Examples,《21个项目玩转深度学习———基于TensorFlow的实践详解》配套代码,https://github.com/hzy46/Deep-Learning-21-Examples,3988,3988,1708
-ta-lib,Python wrapper for TA-Lib (http://ta-lib.org/).,https://github.com/mrjbq7/ta-lib,3985,3985,903
-django-crispy-forms,The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.,https://github.com/django-crispy-forms/django-crispy-forms,3969,3969,669
-discover-flask,Full Stack Web Development with Flask.,https://github.com/realpython/discover-flask,3962,3962,698
-arxiv-sanity-preserver,"Web interface for browsing, search and filtering recent arxiv submissions",https://github.com/karpathy/arxiv-sanity-preserver,3959,3959,1168
-keras-retinanet,Keras implementation of RetinaNet object detection.,https://github.com/fizyr/keras-retinanet,3945,3945,1807
-st2,"StackStorm (aka ""IFTTT for Ops"") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html. Questions? https://forum.stackstorm.com/.",https://github.com/StackStorm/st2,3942,3942,516
-DeepLearningTutorials,Deep Learning Tutorial notes and code. See the wiki for more info.,https://github.com/lisa-lab/DeepLearningTutorials,3929,3929,2149
-scikit-image,Image processing in Python,https://github.com/scikit-image/scikit-image,3924,3924,1643
-Telethon,"Pure Python 3 MTProto API Telegram client library, for bots too!",https://github.com/LonamiWebs/Telethon,3919,3919,589
-volatility,An advanced memory forensics framework,https://github.com/volatilityfoundation/volatility,3912,3912,839
-research,"dataset and code for 2016 paper ""Learning a Driving Simulator""",https://github.com/commaai/research,3912,3912,1157
-Yet-Another-EfficientDet-Pytorch,The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.,https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch,3903,3903,947
-moto,A library that allows you to easily mock out tests based on AWS infrastructure.,https://github.com/spulec/moto,3899,3899,1206
-ssd.pytorch,A PyTorch Implementation of Single Shot MultiBox Detector,https://github.com/amdegroot/ssd.pytorch,3894,3894,1472
-GitGutter,A Sublime Text 2/3 plugin to see git diff in gutter,https://github.com/jisaacks/GitGutter,3881,3881,231
-buku,:bookmark: Browser-independent bookmark manager,https://github.com/jarun/buku,3877,3877,217
-rqalpha,"A extendable, replaceable Python algorithmic backtest && trading framework supporting multiple securities",https://github.com/ricequant/rqalpha,3877,3877,1346
-Flask-SocketIO,Socket.IO integration for Flask applications.,https://github.com/miguelgrinberg/Flask-SocketIO,3873,3873,723
-dataset,"Easy-to-use data handling for SQL data stores with support for implicit table creation, bulk loading, and transactions.",https://github.com/pudo/dataset,3870,3870,248
-librosa,Python library for audio and music analysis,https://github.com/librosa/librosa,3866,3866,646
-microk8s,"MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.",https://github.com/ubuntu/microk8s,3864,3864,372
-MachineLearning,Basic Machine Learning and Deep Learning,https://github.com/wepe/MachineLearning,3863,3863,2821
-DeepCTR,"Easy-to-use,Modular and Extendible package of deep-learning based CTR models for search and recommendation.",https://github.com/shenweichen/DeepCTR,3861,3861,1216
-DeepLearning.ai-Summary,This repository contains my personal notes and summaries on DeepLearning.ai specialization courses. I've enjoyed every little bit of the course hope you enjoy my notes too.,https://github.com/mbadry1/DeepLearning.ai-Summary,3859,3859,2109
-DrQA,Reading Wikipedia to Answer Open-Domain Questions,https://github.com/facebookresearch/DrQA,3858,3858,823
-rockstar,Makes you a Rockstar C++ Programmer in 2 minutes,https://github.com/avinassh/rockstar,3856,3856,284
-shadowbroker,"The Shadow Brokers ""Lost In Translation"" leak ",https://github.com/misterch0c/shadowbroker,3849,3849,390
-neon,Intel® Nervana™ reference deep learning framework committed to best performance on all hardware,https://github.com/NervanaSystems/neon,3846,3846,841
-deep-learning-roadmap,:satellite: All You Need to Know About Deep Learning - A kick-starter,https://github.com/instillai/deep-learning-roadmap,3844,3844,602
-Tensorflow-Tutorial,Tensorflow tutorial from basic to hard,https://github.com/MorvanZhou/Tensorflow-Tutorial,3835,3835,1831
-dataset,The Open Images dataset,https://github.com/openimages/dataset,3832,3832,575
-xonsh,"Python-powered, cross-platform, Unix-gazing shell",https://github.com/xonsh/xonsh,3830,3830,426
-awesome-math,A curated list of awesome mathematics resources,https://github.com/rossant/awesome-math,3825,3825,587
-pywonderland,A tour in the wonderland of math with python.,https://github.com/neozhaoliang/pywonderland,3824,3824,343
-redis-rdb-tools,"Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON",https://github.com/sripathikrishnan/redis-rdb-tools,3822,3822,584
-brython,Brython (Browser Python) is an implementation of Python 3 running in the browser,https://github.com/brython-dev/brython,3817,3817,358
-deap,Distributed Evolutionary Algorithms in Python,https://github.com/DEAP/deap,3815,3815,802
-mmf,A modular framework for vision & language multimodal research from Facebook AI Research (FAIR),https://github.com/facebookresearch/mmf,3812,3812,532
-IPProxyPool,IPProxyPool代理池项目，提供代理ip,https://github.com/qiyeboy/IPProxyPool,3811,3811,1264
-Eel,A little Python library for making simple Electron-like HTML/JS GUI apps,https://github.com/samuelhwilliams/Eel,3809,3809,359
-DAIN,Depth-Aware Video Frame Interpolation (CVPR 2019),https://github.com/baowenbo/DAIN,3808,3808,443
-jupytext,"Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts",https://github.com/mwouts/jupytext,3801,3801,235
-WeasyPrint,"WeasyPrint converts web documents (HTML with CSS, SVG, …) to PDF.",https://github.com/Kozea/WeasyPrint,3795,3795,428
-django-cors-headers,Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS),https://github.com/adamchainz/django-cors-headers,3795,3795,446
-lutris,Lutris client - Open Source gaming platform for GNU/Linux,https://github.com/lutris/lutris,3791,3791,351
-datasette,An open source multi-tool for exploring and publishing data,https://github.com/simonw/datasette,3789,3789,207
-dl-docker,"An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)",https://github.com/floydhub/dl-docker,3788,3788,825
-conda,"OS-agnostic, system-level binary package manager and ecosystem",https://github.com/conda/conda,3787,3787,950
-AidLearning-FrameWork,"🔥🔥AidLearning builds a linux environment supporting GUI, deep learning and visual programming on Android devices. Now  support VSCode,Jupyter, pyToApk! One-click install.🚀",https://github.com/aidlearning/AidLearning-FrameWork,3766,3766,588
-livestreamer,"Command-line utility that extracts streams from various services and pipes them into a video player of choice. No longer maintained, use streamlink or youtube-dl instead.",https://github.com/chrippa/livestreamer,3763,3763,610
-tablib,"Python Module for Tabular Datasets in XLS, CSV, JSON, YAML, &c.",https://github.com/jazzband/tablib,3761,3761,547
-Lasagne,Lightweight library to build and train neural networks in Theano,https://github.com/Lasagne/Lasagne,3744,3744,978
-cookiecutter-data-science,"A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.",https://github.com/drivendata/cookiecutter-data-science,3742,3742,1249
-ptpython,A better Python REPL,https://github.com/prompt-toolkit/ptpython,3740,3740,207
-sklearn-doc-zh,:book: [译] scikit-learn（sklearn） 中文文档,https://github.com/apachecn/sklearn-doc-zh,3730,3730,1220
-CouchPotatoServer,Automatic Movie Downloading via NZBs & Torrents,https://github.com/CouchPotato/CouchPotatoServer,3729,3729,1312
-PyGithub,Typed interactions with the GitHub API v3,https://github.com/PyGithub/PyGithub,3729,3729,1190
-CapsNet-Tensorflow,A Tensorflow implementation of CapsNet(Capsules Net) in paper Dynamic Routing Between Capsules,https://github.com/naturomics/CapsNet-Tensorflow,3717,3717,1197
-Chinese-BERT-wwm,Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm系列模型）,https://github.com/ymcui/Chinese-BERT-wwm,3716,3716,657
-WeRoBot,WeRoBot 是一个微信公众号开发框架,https://github.com/offu/WeRoBot,3711,3711,927
-Lihang,"Statistical learning methods, 统计学习方法(第2版)[李航]  [笔记, 代码, notebook, 参考文献, Errata, lihang]",https://github.com/SmirkCao/Lihang,3711,3711,1181
-awesome-graph-classification,"A collection of important graph embedding, classification and representation learning papers with implementations.",https://github.com/benedekrozemberczki/awesome-graph-classification,3709,3709,612
-pytorch-examples,Simple examples to introduce PyTorch,https://github.com/jcjohnson/pytorch-examples,3697,3697,823
-maltrail,Malicious traffic detection system,https://github.com/stamparm/maltrail,3695,3695,703
-BERT-pytorch,Google AI 2018 BERT pytorch implementation,https://github.com/codertimo/BERT-pytorch,3689,3689,833
-iGAN,Interactive Image Generation via Generative Adversarial Networks,https://github.com/junyanz/iGAN,3685,3685,581
-tinydb,TinyDB is a lightweight document oriented database optimized for your happiness :),https://github.com/msiemens/tinydb,3680,3680,340
-django-tastypie,Creating delicious APIs for Django apps since 2010.,https://github.com/django-tastypie/django-tastypie,3675,3675,1155
-virtualenv,Virtual Python Environment builder,https://github.com/pypa/virtualenv,3665,3665,858
-igbot,"🐙 Free scripts, bots and Python API wrapper. Get free followers with our auto like, auto follow and other scripts!",https://github.com/ohld/igbot,3663,3663,1177
+examples,"A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.",https://github.com/pytorch/examples,14055,14055,6593
+spleeter,Deezer source separation library including pretrained models.,https://github.com/deezer/spleeter,13985,13985,1371
+bitcoinbook,Mastering Bitcoin 2nd Edition - Programming the Open Blockchain,https://github.com/bitcoinbook/bitcoinbook,13968,13968,3990
+bokeh,"Interactive Data Visualization in the browser, from  Python",https://github.com/bokeh/bokeh,13939,13939,3489
+wechat_jump_game,微信《跳一跳》Python 辅助,https://github.com/wangshub/wechat_jump_game,13890,13890,4574
+PySnooper,Never use print for debugging again,https://github.com/cool-RR/PySnooper,13753,13753,859
+locust,Scalable user load testing tool written in Python,https://github.com/locustio/locust,13728,13728,1919
+nginx-proxy,Automated nginx proxy for Docker containers using docker-gen,https://github.com/nginx-proxy/nginx-proxy,13696,13696,2478
+luigi,"Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. ",https://github.com/spotify/luigi,13689,13689,2169
+CheatSheetSeries,The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.,https://github.com/OWASP/CheatSheetSeries,13557,13557,1966
+cascadia-code,"This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.",https://github.com/microsoft/cascadia-code,13421,13421,387
+gpt-2,"Code for the paper ""Language Models are Unsupervised Multitask Learners""",https://github.com/openai/gpt-2,13098,13098,3244
+ray,"An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.",https://github.com/ray-project/ray,12984,12984,1999
+pytorch-CycleGAN-and-pix2pix,Image-to-Image Translation in PyTorch,https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix,12901,12901,3837
+dash,"Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.",https://github.com/plotly/dash,12828,12828,1308
+cookiecutter,"A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.",https://github.com/cookiecutter/cookiecutter,12787,12787,1331
+Paddle,PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）,https://github.com/PaddlePaddle/Paddle,12740,12740,3184
+wttr.in,:partly_sunny: The right way to check the weather,https://github.com/chubin/wttr.in,12717,12717,654
+zulip,Zulip server - powerful open source team chat,https://github.com/zulip/zulip,12540,12540,3929
+detectron2,Detectron2 is FAIR's next-generation platform for object detection and segmentation.,https://github.com/facebookresearch/detectron2,12491,12491,2961
+fabric,"Simple, Pythonic remote execution and deployment.",https://github.com/fabric/fabric,12449,12449,1809
+wxpy,微信机器人 / 可能是最优雅的微信个人号 API ✨✨,https://github.com/youfou/wxpy,12412,12412,2167
+rich,Rich is a Python library for rich text and beautiful formatting in the terminal.,https://github.com/willmcgugan/rich,12336,12336,318
+awesome-python-login-model,😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟,https://github.com/Kr1s77/awesome-python-login-model,12247,12247,2668
+matplotlib,matplotlib: plotting with Python,https://github.com/matplotlib/matplotlib,12143,12143,5333
+poetry,Python dependency management and packaging made easy.,https://github.com/python-poetry/poetry,12076,12076,873
+chinese-programmer-wrong-pronunciation,中国程序员容易发音错误的单词,https://github.com/shimohq/chinese-programmer-wrong-pronunciation,11989,11989,1041
+powerline,"Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.",https://github.com/powerline/powerline,11944,11944,907
+labelImg,🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images,https://github.com/tzutalin/labelImg,11826,11826,3959
+zipline,"Zipline, a Pythonic Algorithmic Trading Library",https://github.com/quantopian/zipline,11772,11772,3394
+kivy,"Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS",https://github.com/kivy/kivy,11685,11685,2495
+autojump,A cd command that learns - easily navigate directories from the command line,https://github.com/wting/autojump,11638,11638,561
+python-telegram-bot,We have made you a wrapper you can't refuse,https://github.com/python-telegram-bot/python-telegram-bot,11627,11627,2465
+mmdetection,OpenMMLab Detection Toolbox and Benchmark,https://github.com/open-mmlab/mmdetection,11613,11613,3941
+neural-networks-and-deep-learning,"Code samples for my book ""Neural Networks and Deep Learning""",https://github.com/mnielsen/neural-networks-and-deep-learning,11575,11575,5422
+InstaPy,📷 Instagram Bot - Tool for automated Instagram interactions,https://github.com/timgrossmann/InstaPy,11418,11418,2942
+game-programmer,A Study Path for Game Programmer,https://github.com/miloyip/game-programmer,11414,11414,1432
+prophet,Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.,https://github.com/facebook/prophet,11412,11412,3199
+inter,The Inter font family,https://github.com/rsms/inter,11310,11310,252
+python-spider,:rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等,https://github.com/Jack-Cherish/python-spider,11264,11264,4480
+salt,Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here: ,https://github.com/saltstack/salt,11228,11228,4924
+requests-html,Pythonic HTML Parsing for Humans™,https://github.com/psf/requests-html,11149,11149,732
+py12306,🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理 ,https://github.com/pjialin/py12306,11141,11141,2953
+gensim,Topic Modelling for Humans,https://github.com/RaRe-Technologies/gensim,11135,11135,3810
+material-theme,"Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino",https://github.com/equinusocio/material-theme,11076,11076,799
+magic-wormhole,"get things from one computer to another, safely",https://github.com/warner/magic-wormhole,11034,11034,415
+Zappa,Serverless Python,https://github.com/Miserlou/Zappa,11009,11009,1190
+yapf,A formatter for Python files,https://github.com/google/yapf,10992,10992,749
+pix2code,pix2code: Generating Code from a Graphical User Interface Screenshot,https://github.com/tonybeltramelli/pix2code,10979,10979,1231
+facenet,Face recognition using Tensorflow,https://github.com/davidsandberg/facenet,10977,10977,4429
+jupyter,"Jupyter metapackage for installation, docs and chat",https://github.com/jupyter/jupyter,10885,10885,2742
+mkdocs,Project documentation with Markdown.,https://github.com/mkdocs/mkdocs,10692,10692,1572
+wtfpython-cn,wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译,https://github.com/leisurelicht/wtfpython-cn,10661,10661,1924
+proxy_pool,Python爬虫代理IP池(proxy pool),https://github.com/jhao104/proxy_pool,10610,10610,2998
+neural-enhance,Super Resolution for images using deep learning.,https://github.com/alexjc/neural-enhance,10537,10537,1209
+baselines,OpenAI Baselines: high-quality implementations of reinforcement learning algorithms,https://github.com/openai/baselines,10491,10491,3596
+faker,Faker is a Python package that generates fake data for you.,https://github.com/joke2k/faker,10478,10478,1242
+tensor2tensor,Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.,https://github.com/tensorflow/tensor2tensor,10382,10382,2645
+FastPhotoStyle,"Style transfer, deep learning, feature transform",https://github.com/NVIDIA/FastPhotoStyle,10361,10361,1099
+walle-web,walle - 瓦力 Devops开源项目代码部署平台,https://github.com/meolu/walle-web,10315,10315,2529
+ChatterBot,"ChatterBot is a machine learning, conversational dialog engine for creating chat bots",https://github.com/gunthercox/ChatterBot,10303,10303,3521
+mackup,Keep your application settings in sync (OS X/Linux),https://github.com/lra/mackup,10280,10280,804
+Gooey,Turn (almost) any Python command line program into a full GUI application with one line,https://github.com/chriskiehl/Gooey,10270,10270,601
+aiohttp,Asynchronous HTTP client/server framework for asyncio and Python,https://github.com/aio-libs/aiohttp,10193,10193,1461
+awesome-algorithm,项目永久冻结，迁移至新地址：,https://github.com/apachecn/awesome-algorithm,10113,10113,2143
+newspaper,"News, full-text, and article metadata extraction in Python 3. Advanced docs:",https://github.com/codelucas/newspaper,10110,10110,1662
+aws-cli,Universal Command Line Interface for Amazon Web Services,https://github.com/aws/aws-cli,10050,10050,2358
+speedtest-cli,Command line interface for testing internet bandwidth using speedtest.net,https://github.com/sivel/speedtest-cli,10002,10002,1417
+stylegan,StyleGAN - Official TensorFlow Implementation,https://github.com/NVlabs/stylegan,9993,9993,2262
+DeepCreamPy,Decensoring Hentai with Deep Neural Networks,https://github.com/deeppomf/DeepCreamPy,9947,9947,1118
+horovod,"Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.",https://github.com/horovod/horovod,9919,9919,1595
+openage,Free (as in freedom) open source clone of the Age of Empires II engine :rocket:,https://github.com/SFTtech/openage,9905,9905,949
+ungoogled-chromium,"Google Chromium, sans integration with Google",https://github.com/Eloston/ungoogled-chromium,9881,9881,431
+pelican,Static site generator that supports Markdown and reST syntax. Powered by Python.,https://github.com/getpelican/pelican,9871,9871,1663
+imgaug,Image augmentation for machine learning experiments.,https://github.com/aleju/imgaug,9850,9850,1883
+tushare,TuShare is a utility for crawling historical data of China stocks,https://github.com/waditu/tushare,9836,9836,3782
+sovereign,"A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.",https://github.com/sovereign/sovereign,9790,9790,825
+click,Python composable command line interface toolkit,https://github.com/pallets/click,9729,9729,973
+pyecharts,🎨 Python Echarts Plotting Library,https://github.com/pyecharts/pyecharts,9685,9685,2200
+stanford-tensorflow-tutorials,This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research. ,https://github.com/chiphuyen/stanford-tensorflow-tutorials,9674,9674,4347
+rasa,"💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",https://github.com/RasaHQ/rasa,9666,9666,2984
+jax,"Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",https://github.com/google/jax,9609,9609,796
+beets,music library manager and MusicBrainz tagger,https://github.com/beetbox/beets,9572,9572,1601
+kitty,"A cross-platform, fast, feature full, GPU based terminal emulator",https://github.com/kovidgoyal/kitty,9513,9513,467
+tflearn,Deep learning library featuring a higher-level API for TensorFlow.,https://github.com/tflearn/tflearn,9439,9439,2416
+neural-doodle,"Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.)",https://github.com/alexjc/neural-doodle,9432,9432,861
+mailinabox,"Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.",https://github.com/mail-in-a-box/mailinabox,9432,9432,1017
+fast-style-transfer,TensorFlow CNN for fast style transfer ⚡🖥🎨🖼,https://github.com/lengstrom/fast-style-transfer,9362,9362,2383
+Shadowrocket-ADBlock-Rules,提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。,https://github.com/h2y/Shadowrocket-ADBlock-Rules,9356,9356,1429
+flair,A very simple framework for state-of-the-art Natural Language Processing (NLP),https://github.com/flairNLP/flair,9288,9288,1283
+reinforcement-learning-an-introduction,Python Implementation of Reinforcement Learning: An Introduction,https://github.com/ShangtongZhang/reinforcement-learning-an-introduction,9244,9244,3707
+Theano,"Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.",https://github.com/Theano/Theano,9223,9223,2516
+nltk,NLTK Source,https://github.com/nltk/nltk,9204,9204,2390
+httpbin,"HTTP Request & Response Service, written in Python + Flask.",https://github.com/postmanlabs/httpbin,9182,9182,1347
+wagtail,A Django content management system focused on flexibility and user experience,https://github.com/wagtail/wagtail,9168,9168,1987
+wifiphisher,The Rogue Access Point Framework,https://github.com/wifiphisher/wifiphisher,9151,9151,2104
+the-gan-zoo,A list of all named GANs!,https://github.com/hindupuravinash/the-gan-zoo,9056,9056,1906
+mypy,Optional static typing for Python 3 and 2 (PEP 484),https://github.com/python/mypy,9053,9053,1446
+RocAlphaGo,"An independent, student-led replication of DeepMind's 2016 Nature publication, ""Mastering the game of Go with deep neural networks and tree search"" (Nature 529, 484-489, 28 Jan 2016), details of which can be found on their website https://deepmind.com/publications.html.",https://github.com/Rochester-NRT/RocAlphaGo,9042,9042,2488
+examples-of-web-crawlers,"一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )",https://github.com/shengqiangzhang/examples-of-web-crawlers,9015,9015,2739
+avatarify,"Avatars for Zoom, Skype and other video-conferencing apps.",https://github.com/alievk/avatarify,9004,9004,1226
+allennlp,"An open-source NLP research library, built on PyTorch.",https://github.com/allenai/allennlp,9003,9003,1888
+sshuttle,Wrong project!  You should head over to http://github.com/sshuttle/sshuttle,https://github.com/apenwarr/sshuttle,8976,8976,669
+saleor,"A modular, high performance, headless e-commerce storefront built with Python, GraphQL, Django, and ReactJS.",https://github.com/mirumee/saleor,8975,8975,3157
+termtosvg,Record terminal sessions as SVG animations,https://github.com/nbedos/termtosvg,8952,8952,352
+pgcli,Postgres CLI with autocompletion and syntax highlighting,https://github.com/dbcli/pgcli,8904,8904,411
+mycli,A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.,https://github.com/dbcli/mycli,8898,8898,552
+numpy-ml,"Machine learning, in numpy",https://github.com/ddbourgin/numpy-ml,8874,8874,2519
+fairseq,Facebook AI Research Sequence-to-Sequence Toolkit written in Python.,https://github.com/pytorch/fairseq,8849,8849,2251
+redis-py,Redis Python Client,https://github.com/andymccurdy/redis-py,8797,8797,1875
+pytorch_geometric,Geometric Deep Learning Extension Library for PyTorch,https://github.com/rusty1s/pytorch_geometric,8785,8785,1448
+musicbox,网易云音乐命令行版本,https://github.com/darknessomi/musicbox,8535,8535,1525
+sonnet,TensorFlow-based neural network library,https://github.com/deepmind/sonnet,8500,8500,1229
+explainshell,match command-line arguments to their help text,https://github.com/idank/explainshell,8492,8492,543
+awesome-aws,"A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",https://github.com/donnemartin/awesome-aws,8452,8452,1049
+howdoi,instant coding answers via the command line,https://github.com/gleitz/howdoi,8422,8422,767
+tutorials,机器学习相关教程,https://github.com/MorvanZhou/tutorials,8412,8412,5022
+asciinema,Terminal session recorder 📹,https://github.com/asciinema/asciinema,8398,8398,713
+XSStrike,Most advanced XSS scanner.,https://github.com/s0md3v/XSStrike,8338,8338,1179
+chisel,Chisel is a collection of LLDB commands to assist debugging iOS apps.,https://github.com/facebook/chisel,8316,8316,754
+ranger,A VIM-inspired filemanager for the console,https://github.com/ranger/ranger,8311,8311,589
+routersploit,Exploitation Framework for Embedded Devices,https://github.com/threat9/routersploit,8307,8307,1840
+calibre,The official source code repository for the calibre ebook manager,https://github.com/kovidgoyal/calibre,8282,8282,1337
+bert-as-service,Mapping a variable-length sentence to a fixed-length vector using BERT model,https://github.com/hanxiao/bert-as-service,8215,8215,1659
+recommenders,Best Practices on Recommendation Systems,https://github.com/microsoft/recommenders,8208,8208,1332
+Mailpile,"A free & open modern, fast email client with user-friendly encryption and privacy features",https://github.com/mailpile/Mailpile,8202,8202,1000
+fashion-mnist,A MNIST-like fashion product database. Benchmark :point_right: ,https://github.com/zalandoresearch/fashion-mnist,8191,8191,1955
+DeDRM_tools,DeDRM tools for ebooks,https://github.com/apprenticeharper/DeDRM_tools,8172,8172,715
+MLAlgorithms,Minimal and clean examples of machine learning algorithms implementations,https://github.com/rushter/MLAlgorithms,8153,8153,1465
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,8088,8088,668
+pytorch-lightning,"The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",https://github.com/PyTorchLightning/pytorch-lightning,8083,8083,944
+coursera-dl,Script for downloading Coursera.org videos and naming them.,https://github.com/coursera-dl/coursera-dl,8063,8063,1975
+falcon,"The no-nonsense, minimalist web services and app backend framework for Python developers, with a focus on reliability, correctness, and performance at scale.",https://github.com/falconry/falcon,7979,7979,802
+thumbor,thumbor is an open-source photo thumbnail service by globo.com,https://github.com/thumbor/thumbor,7935,7935,685
+http-prompt,"An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/clihttp",https://github.com/httpie/http-prompt,7901,7901,303
+portia,Visual scraping for Scrapy,https://github.com/scrapinghub/portia,7889,7889,1272
+networkx,Network Analysis in Python,https://github.com/networkx/networkx,7855,7855,2047
+maskrcnn-benchmark,"Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.",https://github.com/facebookresearch/maskrcnn-benchmark,7838,7838,2264
+peewee,"a small, expressive orm -- supports postgresql, mysql and sqlite",https://github.com/coleifer/peewee,7797,7797,1234
+plotly.py,The interactive graphing library for Python (includes Plotly Express) :sparkles:,https://github.com/plotly/plotly.py,7750,7750,1625
+Chinese-Word-Vectors,100+ Chinese Word Vectors 上百种预训练中文词向量 ,https://github.com/Embedding/Chinese-Word-Vectors,7731,7731,1818
+Pillow,The friendly PIL fork (Python Imaging Library),https://github.com/python-pillow/Pillow,7702,7702,1506
+django-cms,The easy-to-use and developer-friendly CMS,https://github.com/divio/django-cms,7691,7691,2533
+schedule,Python job scheduling for humans.,https://github.com/dbader/schedule,7679,7679,713
+q,q - Run SQL directly on CSV or TSV files  ,https://github.com/harelba/q,7675,7675,345
+awesome-scala,"A community driven list of useful Scala libraries, frameworks and software.",https://github.com/lauris/awesome-scala,7628,7628,1167
+qrcode,artistic QR Code in Python （Animated GIF qr code）- Python 艺术二维码生成器 （GIF动态二维码、图片二维码）,https://github.com/sylnsfar/qrcode,7619,7619,1238
+seaborn,Statistical data visualization using matplotlib,https://github.com/mwaskom/seaborn,7615,7615,1306
+EverydayWechat,微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）,https://github.com/sfyc23/EverydayWechat,7610,7610,1818
+visdom,"A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.",https://github.com/facebookresearch/visdom,7574,7574,950
+pattern,"Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.",https://github.com/clips/pattern,7569,7569,1492
+w3-goto-world,"🍅Git/AWS/Google 镜像 ,SS/SSR/VMESS节点,WireGuard,IPFS, DeepWeb,Capitalism 知识储备库",https://github.com/hoochanlon/w3-goto-world,7532,7532,1816
+searx,Privacy-respecting metasearch engine,https://github.com/searx/searx,7517,7517,1160
+EasyOCR,"Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai",https://github.com/JaidedAI/EasyOCR,7487,7487,675
+scipy,Scipy library main repository,https://github.com/scipy/scipy,7478,7478,3402
+vid2vid,Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.,https://github.com/NVIDIA/vid2vid,7467,7467,1079
+tpot,A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.,https://github.com/EpistasisLab/tpot,7435,7435,1305
+word_cloud,A little word cloud generator in Python,https://github.com/amueller/word_cloud,7421,7421,1941
+d2l-en,"Interactive deep learning book with code, math, and discussions. Available in multi-frameworks.",https://github.com/d2l-ai/d2l-en,7418,7418,1728
+Keras-GAN,Keras implementations of Generative Adversarial Networks.,https://github.com/eriklindernoren/Keras-GAN,7407,7407,2669
+autokeras,AutoML library for deep learning,https://github.com/keras-team/autokeras,7398,7398,1213
+insightface,Face Analysis Project on MXNet,https://github.com/deepinsight/insightface,7381,7381,2621
+zhao,【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵,https://github.com/programthink/zhao,7380,7380,1908
+serverless-application-model,AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications,https://github.com/aws/serverless-application-model,7378,7378,1881
+chinese-xinhua,:orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。,https://github.com/pwxcoo/chinese-xinhua,7343,7343,1691
+sympy,A computer algebra system written in pure Python,https://github.com/sympy/sympy,7321,7321,3097
+mlflow,Open source platform for the machine learning lifecycle,https://github.com/mlflow/mlflow,7288,7288,1640
+fuzzywuzzy,Fuzzy String Matching in Python,https://github.com/seatgeek/fuzzywuzzy,7267,7267,778
+jinja,A very fast and expressive template engine.,https://github.com/pallets/jinja,7246,7246,1331
+rq,Simple job queues for Python,https://github.com/rq/rq,7239,7239,1159
+PyTorch-GAN,PyTorch implementations of Generative Adversarial Networks.,https://github.com/eriklindernoren/PyTorch-GAN,7229,7229,2094
+TextBlob,"Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.",https://github.com/sloria/TextBlob,7227,7227,963
+universe,"Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.",https://github.com/openai/universe,7203,7203,889
+chalice,Python Serverless Microframework for AWS,https://github.com/aws/chalice,7188,7188,715
+h4cker,"This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.",https://github.com/The-Art-of-Hacking/h4cker,7187,7187,1166
+TrumpScript,Make Python great again,https://github.com/samshadwell/TrumpScript,7173,7173,406
+dask,Parallel computing with task scheduling,https://github.com/dask/dask,7172,7172,1146
+pretrained-models.pytorch,"Pretrained ConvNets for pytorch: NASNet, ResNeXt, ResNet, InceptionV4, InceptionResnetV2, Xception, DPN, etc.",https://github.com/Cadene/pretrained-models.pytorch,7165,7165,1549
+docopt,"Pythonic command line arguments parser, that will make you smile",https://github.com/docopt/docopt,7156,7156,537
+faceai,一款入门级的人脸、视频、文字检测以及识别的项目.,https://github.com/vipstone/faceai,7156,7156,1823
+mlcourse.ai,Open Machine Learning Course,https://github.com/Yorko/mlcourse.ai,7153,7153,4708
+Douyin-Bot,😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？ ,https://github.com/wangshub/Douyin-Bot,7151,7151,1523
+cookiecutter-django,Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.,https://github.com/pydanny/cookiecutter-django,7146,7146,1903
+ArchiveBox,"🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...",https://github.com/pirate/ArchiveBox,7136,7136,428
+pyinstaller,Freeze (package) Python programs into stand-alone executables,https://github.com/pyinstaller/pyinstaller,7135,7135,1510
+uvloop,Ultra fast asyncio event loop.,https://github.com/MagicStack/uvloop,7130,7130,421
+anki,Anki for desktop computers,https://github.com/ankitects/anki,7127,7127,1111
+gunicorn,"gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.",https://github.com/benoitc/gunicorn,7116,7116,1333
+tweepy,Twitter for Python!,https://github.com/tweepy/tweepy,7078,7078,3207
+google-images-download,Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!,https://github.com/hardikvasa/google-images-download,7020,7020,1662
+elastalert,Easy & Flexible Alerting With ElasticSearch,https://github.com/Yelp/elastalert,6995,6995,1577
+pysc2,StarCraft II Learning Environment,https://github.com/deepmind/pysc2,6996,6996,1068
+py-faster-rcnn,Faster R-CNN (Python implementation) -- see https://github.com/ShaoqingRen/faster_rcnn for the official MATLAB version,https://github.com/rbgirshick/py-faster-rcnn,6992,6992,4002
+pwntools,CTF framework and exploit development library,https://github.com/Gallopsled/pwntools,6977,6977,1285
+bottle,bottle.py is a fast and simple micro-framework for python web-applications.,https://github.com/bottlepy/bottle,6960,6960,1338
+ludwig,Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.,https://github.com/uber/ludwig,6955,6955,839
+netbox,IP address management (IPAM) and data center infrastructure management (DCIM) tool.,https://github.com/netbox-community/netbox,6898,6898,1322
+Photon,Incredibly fast crawler designed for OSINT.,https://github.com/s0md3v/Photon,6875,6875,946
+gitsome,A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools,https://github.com/donnemartin/gitsome,6869,6869,388
+loguru,Python logging made (stupidly) simple,https://github.com/Delgan/loguru,6859,6859,312
+EasyFN,With EasyFNBot you can easily create you own Fortnite Lobby Bot in less than 5 minutes which will be online forever!,https://github.com/LupusLeaks/EasyFN,6833,6833,290
+nni,"An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",https://github.com/microsoft/nni,6830,6830,940
+moviepy,Video editing with Python,https://github.com/Zulko/moviepy,6815,6815,972
+gdb-dashboard,Modular visual interface for GDB in Python,https://github.com/cyrus-and/gdb-dashboard,6791,6791,525
+node-gyp,Node.js native addon build tool,https://github.com/nodejs/node-gyp,6773,6773,1236
+abu,阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构,https://github.com/bbfamily/abu,6770,6770,2513
+erpnext,Open Source Alternative to SAP,https://github.com/frappe/erpnext,6768,6768,2908
+WeixinBot,网页版微信API，包含终端版微信及微信机器人,https://github.com/Urinx/WeixinBot,6759,6759,1960
+flasky,"Companion code to my O'Reilly book ""Flask Web Development"", second edition.",https://github.com/miguelgrinberg/flasky,6745,6745,3600
