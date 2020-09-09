@@ -2,8 +2,7 @@ from main import main
 
 from unittest import TestCase
 from unittest.mock import patch
-from api.endpoint import ApiEndPoint
-from sample_input import URL, PARAMS, PER_PAGE, FILENAME, FILEPATH
+from sample_input import FILENAME, FILEPATH
 
 
 class TestMain(TestCase):
