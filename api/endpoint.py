@@ -1,6 +1,11 @@
+import logging
+
+logger = logging.getLogger('github-api-call.api_endpoint_cls')
+
+
 class ApiEndPoint:
     """"
-    Defines an API endpoint along with query parameters
+    Defines an API endpoint along with other endpoint parameters
     """
 
     def __init__(self, url: str, params: dict, per_page: int):
